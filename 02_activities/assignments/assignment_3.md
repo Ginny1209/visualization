@@ -43,6 +43,12 @@
             Add the data source for better reproducibility.
 
 
+                    Suggestion to bad example:
+            Alt-text:Include descriptive alt-text for screen readers.
+            Font Size:Use a larger font size for better readability.
+            More detailed about the data source.
+
+
         ```
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 

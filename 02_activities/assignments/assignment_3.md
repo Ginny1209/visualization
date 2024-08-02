@@ -7,9 +7,7 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-        Your answer...
-        
-        Bad example-https://viz.wtf/image/187558414596
+             Bad example-https://viz.wtf/image/187558414596
             Reproducible:
             The graph shows the exact data source.
             The bar chart is relatively easy to make.
@@ -32,12 +30,17 @@
              The dataset is not biased as it is history data.
             Font Size:Use a larger font size for better readability.
             
+
+
+
+        ```
+    - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
+        ```
+        Your answer...
             Suggestion to good example:
             The whole dashboard is too big and the two colors used don't have enough contrast.So my suggestion is to enhance the contrast of the colors.
             Font Size:Use a larger font size for better readability.
             Add the data source for better reproducibility.
-            
-
 
 
         ```

@@ -7,7 +7,29 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-        Your answer...
+             Bad example-https://viz.wtf/image/187558414596
+            Reproducible:
+            The graph shows the exact data source.
+            The bar chart is relatively easy to make.
+            Equity:
+            It is a 2D picture so everyone has equal access to it, and does not necessarily need to be embedded with a browser.
+            Accessibility:
+            The use of multiple colors and sharper contrast improves accessibility compared to the "good example". Additionally, the contrast is not excessively sharp, making it less likely to negatively affect 
+            individuals with autism.
+            There is no Alt-Text in the graph.
+            The font size and type are readable, but it could benefit from larger font sizes for better readability.
+            The labels and legends are clear, indicating the time periods for immigration data.
+            
+            Good example-https://public.tableau.com/app/profile/nicknguyen23/viz/AnalysisofImmigrantstoCanada/Dashboard1
+            Reproducible:
+            Based on tableau，but didn’t list the source of data. 
+            The dashboard is kind of complicated to make as it requires coding the database support.
+            Equity:
+            It requires a browser and internet to have access to because it is embedded on the browser.
+            It is easier to test the user feedback via the website.
+             The dataset is not biased as it is history data.
+            Font Size:Use a larger font size for better readability.
+            
 
 
 
@@ -15,7 +37,16 @@
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
         Your answer...
+            Suggestion to good example:
+            The whole dashboard is too big and the two colors used don't have enough contrast.So my suggestion is to enhance the contrast of the colors.
+            Font Size:Use a larger font size for better readability.
+            Add the data source for better reproducibility.
 
+
+                    Suggestion to bad example:
+            Alt-text:Include descriptive alt-text for screen readers.
+            Font Size:Use a larger font size for better readability.
+            More detailed about the data source.
 
 
         ```

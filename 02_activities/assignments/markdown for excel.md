@@ -4,9 +4,9 @@
 
 ### Excel-three year trend line chart
  
-- For each visualization, describe and justify: 
-    > What software did you use to create your data visualization?
-	I used the built-in function of Microsoft Excel to create the data visualization. 
+
+> What software did you use to create your data visualization?
+I used the built-in function of Microsoft Excel to create the data visualization. 
 
     > Who is your intended audience? 
     	Individuals who are interested in the trend of hourly pay in different occupations over three years from 2013 to 2015, 

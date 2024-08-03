@@ -1,0 +1,1587 @@
+﻿Year,Geography,Occupation,Value
+2013,Eastern region,Management occupations,40.12
+2014,Eastern region,Management occupations,42.37
+2015,Eastern region,Management occupations,43.8
+2013,Eastern region,   Senior management occupations,52.76
+2014,Eastern region,   Senior management occupations,49.89
+2015,Eastern region,   Senior management occupations,54.28
+2013,Eastern region,   Other management occupations,39.55
+2014,Eastern region,   Other management occupations,42.08
+2015,Eastern region,   Other management occupations,43.33
+2013,Eastern region,"Business, finance and administrative occupations",24.06
+2014,Eastern region,"Business, finance and administrative occupations",24.56
+2015,Eastern region,"Business, finance and administrative occupations",25.52
+2013,Eastern region,   Professional occupations in business and finance,35.4
+2014,Eastern region,   Professional occupations in business and finance,35.66
+2015,Eastern region,   Professional occupations in business and finance,37.72
+2013,Eastern region,"   Financial, secretarial and administrative occupations",24.22
+2014,Eastern region,"   Financial, secretarial and administrative occupations",25.59
+2015,Eastern region,"   Financial, secretarial and administrative occupations",26.08
+2013,Eastern region,"   Clerical occupations, including supervisors",19.94
+2014,Eastern region,"   Clerical occupations, including supervisors",20.41
+2015,Eastern region,"   Clerical occupations, including supervisors",20.96
+2013,Eastern region,Natural and applied sciences and related occupations,36.46
+2014,Eastern region,Natural and applied sciences and related occupations,36.75
+2015,Eastern region,Natural and applied sciences and related occupations,36.97
+2013,Eastern region,Health occupations,29.02
+2014,Eastern region,Health occupations,29.73
+2015,Eastern region,Health occupations,30.05
+2013,Eastern region,"   Professional occupations in health, nurse supervisors and registered nurses",34.94
+2014,Eastern region,"   Professional occupations in health, nurse supervisors and registered nurses",36.3
+2015,Eastern region,"   Professional occupations in health, nurse supervisors and registered nurses",37.37
+2013,Eastern region,"   Technical, assisting and related occupations in health",23.21
+2014,Eastern region,"   Technical, assisting and related occupations in health",24.24
+2015,Eastern region,"   Technical, assisting and related occupations in health",25.09
+2013,Eastern region,"Occupations in social science, education, government service and religion",35.26
+2014,Eastern region,"Occupations in social science, education, government service and religion",34.25
+2015,Eastern region,"Occupations in social science, education, government service and religion",34.04
+2013,Eastern region,"   Occupations in social science, government service and religion",33.58
+2014,Eastern region,"   Occupations in social science, government service and religion",32.89
+2015,Eastern region,"   Occupations in social science, government service and religion",31.75
+2013,Eastern region,   Teachers and professors,37.48
+2014,Eastern region,   Teachers and professors,36.3
+2015,Eastern region,   Teachers and professors,37.15
+2013,Eastern region,"Occupations in art, culture, recreation and sport",24.92
+2014,Eastern region,"Occupations in art, culture, recreation and sport",23.86
+2015,Eastern region,"Occupations in art, culture, recreation and sport",26.05
+2013,Eastern region,Sales and service occupations,16.05
+2014,Eastern region,Sales and service occupations,16.45
+2015,Eastern region,Sales and service occupations,16.98
+2013,Eastern region,"   Wholesale, technical, insurance, real estate sales specialists, and retail, wholesale and grain buyers",26.7
+2014,Eastern region,"   Wholesale, technical, insurance, real estate sales specialists, and retail, wholesale and grain buyers",28.05
+2015,Eastern region,"   Wholesale, technical, insurance, real estate sales specialists, and retail, wholesale and grain buyers",28.89
+2013,Eastern region,"   Retail salespersons, sales clerks, cashiers, including retail trade supervisors",13.33
+2014,Eastern region,"   Retail salespersons, sales clerks, cashiers, including retail trade supervisors",13.62
+2015,Eastern region,"   Retail salespersons, sales clerks, cashiers, including retail trade supervisors",14.12
+2013,Eastern region,"   Chefs and cooks, and occupations in food and beverage service, including supervisors",13.67
+2014,Eastern region,"   Chefs and cooks, and occupations in food and beverage service, including supervisors",13.98
+2015,Eastern region,"   Chefs and cooks, and occupations in food and beverage service, including supervisors",14.69
+2013,Eastern region,   Occupation in protective services,26.81
+2014,Eastern region,   Occupation in protective services,27.09
+2015,Eastern region,   Occupation in protective services,29.95
+2013,Eastern region,   Childcare and home support workers,17.9
+2014,Eastern region,   Childcare and home support workers,17.23
+2015,Eastern region,   Childcare and home support workers,18.13
+2013,Eastern region,"   Sales and service occupations not elsewhere classified, including occupations in travel and accommodation, attendants in recreation and sport as well as supervisors",14.43
+2014,Eastern region,"   Sales and service occupations not elsewhere classified, including occupations in travel and accommodation, attendants in recreation and sport as well as supervisors",14.87
+2015,Eastern region,"   Sales and service occupations not elsewhere classified, including occupations in travel and accommodation, attendants in recreation and sport as well as supervisors",14.74
+2013,Eastern region,"Trades, transport and equipment operators and related occupations",22.07
+2014,Eastern region,"Trades, transport and equipment operators and related occupations",22.93
+2015,Eastern region,"Trades, transport and equipment operators and related occupations",23.16
+2013,Eastern region,   Contractors and supervisors in trades and transportation,26.64
+2014,Eastern region,   Contractors and supervisors in trades and transportation,29.15
+2015,Eastern region,   Contractors and supervisors in trades and transportation,29.12
+2013,Eastern region,   Construction trades,21.87
+2014,Eastern region,   Construction trades,22.78
+2015,Eastern region,   Construction trades,23.92
+2013,Eastern region,   Other trades occupations,24.29
+2014,Eastern region,   Other trades occupations,25.48
+2015,Eastern region,   Other trades occupations,25.73
+2013,Eastern region,   Transport and equipment operators,19.97
+2014,Eastern region,   Transport and equipment operators,20.28
+2015,Eastern region,   Transport and equipment operators,21.22
+2013,Eastern region,"   Trades helpers, construction, and transportation labourers and related occupations",18.87
+2014,Eastern region,"   Trades helpers, construction, and transportation labourers and related occupations",19.42
+2015,Eastern region,"   Trades helpers, construction, and transportation labourers and related occupations",17.46
+2013,Eastern region,Occupations unique to primary industry,15.23
+2014,Eastern region,Occupations unique to primary industry,15.97
+2015,Eastern region,Occupations unique to primary industry,16.13
+2013,Eastern region,"Occupations unique to processing, manufacturing and utilities",19.87
+2014,Eastern region,"Occupations unique to processing, manufacturing and utilities",20.9
+2015,Eastern region,"Occupations unique to processing, manufacturing and utilities",21.14
+2013,Eastern region,"   Machine operators and assemblers in manufacturing, including supervisors",20.74
+2014,Eastern region,"   Machine operators and assemblers in manufacturing, including supervisors",22.08
+2015,Eastern region,"   Machine operators and assemblers in manufacturing, including supervisors",21.57
+2013,Eastern region,"   Labourer in processing, manufacturing and utilities",15.32
+2014,Eastern region,"   Labourer in processing, manufacturing and utilities",15.82
+2015,Eastern region,"   Labourer in processing, manufacturing and utilities",19.18
+2013,Eastern region,    Legislators And Senior Management,52.76
+2014,Eastern region,    Legislators And Senior Management,49.89
+2015,Eastern region,    Legislators And Senior Management,54.28
+2013,Eastern region,    Administrative Services Managers,42.63
+2014,Eastern region,    Administrative Services Managers,43.59
+2015,Eastern region,    Administrative Services Managers,46.66
+2013,Eastern region,"    Managers In Engineering, Architecture, Science And Information Systems",47.68
+2014,Eastern region,"    Managers In Engineering, Architecture, Science And Information Systems",51.63
+2015,Eastern region,"    Managers In Engineering, Architecture, Science And Information Systems",48.46
+2013,Eastern region,"    Sales, Marketing And Advertising Managers",43.39
+2014,Eastern region,"    Sales, Marketing And Advertising Managers",42.21
+2015,Eastern region,"    Sales, Marketing And Advertising Managers",49.6
+2013,Eastern region,    Facility Operation And Maintenance Managers,32.21
+2014,Eastern region,    Facility Operation And Maintenance Managers,38.45
+2015,Eastern region,    Facility Operation And Maintenance Managers,34.32
+2013,Eastern region,    Managers In Retail Trade,26.31
+2014,Eastern region,    Managers In Retail Trade,25
+2015,Eastern region,    Managers In Retail Trade,29.58
+2013,Eastern region,    Managers In Food Service And Accommodation,18.81
+2014,Eastern region,    Managers In Food Service And Accommodation,22.75
+2015,Eastern region,    Managers In Food Service And Accommodation,26.34
+2013,Eastern region,    Managers In Financial And Business Services,41.8
+2014,Eastern region,    Managers In Financial And Business Services,45.44
+2015,Eastern region,    Managers In Financial And Business Services,42.29
+2013,Eastern region,"    Managers In Health, Education, Social And Community Services",40.57
+2014,Eastern region,"    Managers In Health, Education, Social And Community Services",40.8
+2015,Eastern region,"    Managers In Health, Education, Social And Community Services",42.13
+2013,Eastern region,    Managers In Public Administration,49.5
+2014,Eastern region,    Managers In Public Administration,52.27
+2015,Eastern region,    Managers In Public Administration,53.48
+2013,Eastern region,    Managers In Construction And Transportation,36.96
+2014,Eastern region,    Managers In Construction And Transportation,32.15
+2015,Eastern region,    Managers In Construction And Transportation,36.2
+2013,Eastern region,    Managers In Manufacturing And Utilities,40.24
+2014,Eastern region,    Managers In Manufacturing And Utilities,45.64
+2015,Eastern region,    Managers In Manufacturing And Utilities,58.31
+2013,Eastern region,"    Auditors, Accountants And Investment Professionals",34.37
+2014,Eastern region,"    Auditors, Accountants And Investment Professionals",35.06
+2015,Eastern region,"    Auditors, Accountants And Investment Professionals",37.78
+2013,Eastern region,    Human Resources And Business Service Professionals,37.15
+2014,Eastern region,    Human Resources And Business Service Professionals,36.54
+2015,Eastern region,    Human Resources And Business Service Professionals,37.6
+2013,Eastern region,    Finance And Insurance Administrative Occupations,22.51
+2014,Eastern region,    Finance And Insurance Administrative Occupations,24.44
+2015,Eastern region,    Finance And Insurance Administrative Occupations,24.82
+2013,Eastern region,"    Secretaries, Recorders And Transcriptionists",20.55
+2014,Eastern region,"    Secretaries, Recorders And Transcriptionists",20.52
+2015,Eastern region,"    Secretaries, Recorders And Transcriptionists",21.36
+2013,Eastern region,    Administrative And Regulatory Occupations,25.72
+2014,Eastern region,    Administrative And Regulatory Occupations,26.88
+2015,Eastern region,    Administrative And Regulatory Occupations,27.34
+2013,Eastern region,    Clerical Supervisors,24.36
+2014,Eastern region,    Clerical Supervisors,25.72
+2015,Eastern region,    Clerical Supervisors,28.86
+2013,Eastern region,"    Clerical Occupations, General Office Skills",17.75
+2014,Eastern region,"    Clerical Occupations, General Office Skills",18.04
+2015,Eastern region,"    Clerical Occupations, General Office Skills",18.23
+2013,Eastern region,    Office Equipment Operators,19.63
+2014,Eastern region,    Office Equipment Operators,13.73
+2015,Eastern region,    Office Equipment Operators,18.39
+2013,Eastern region,    Finance And Insurance Clerks,21.14
+2014,Eastern region,    Finance And Insurance Clerks,20.61
+2015,Eastern region,    Finance And Insurance Clerks,21.99
+2013,Eastern region,    Administrative Support Clerks,21.52
+2014,Eastern region,    Administrative Support Clerks,22.78
+2015,Eastern region,    Administrative Support Clerks,23
+2013,Eastern region,"    Library, Correspondence And Related Information Clerks",15.93
+2014,Eastern region,"    Library, Correspondence And Related Information Clerks",17.46
+2015,Eastern region,"    Library, Correspondence And Related Information Clerks",17.94
+2013,Eastern region,    Mail And Message Distribution Occupations,19.83
+2014,Eastern region,    Mail And Message Distribution Occupations,18.42
+2015,Eastern region,    Mail And Message Distribution Occupations,19.21
+2013,Eastern region,"    Recording, Scheduling And Distributing Occupations",18.37
+2014,Eastern region,"    Recording, Scheduling And Distributing Occupations",19.39
+2015,Eastern region,"    Recording, Scheduling And Distributing Occupations",19.55
+2013,Eastern region,    Physical Science Professionals,40.35
+2014,Eastern region,    Physical Science Professionals,38.06
+2013,Eastern region,    Life Science Professionals,40
+2014,Eastern region,    Life Science Professionals,41.29
+2013,Eastern region,"    Civil, Mechanical, Electrical And Chemical Engineers",43.29
+2014,Eastern region,"    Civil, Mechanical, Electrical And Chemical Engineers",41.97
+2015,Eastern region,"    Civil, Mechanical, Electrical And Chemical Engineers",46.38
+2013,Eastern region,    Other Engineers,41.1
+2014,Eastern region,    Other Engineers,41.36
+2015,Eastern region,    Other Engineers,41.72
+2013,Eastern region,"    Architects, Urban Planners And Land Surveyors",36.03
+2014,Eastern region,"    Architects, Urban Planners And Land Surveyors",38.87
+2014,Eastern region,"      Mathematicians, Statisticians and Actuaries",36.03
+2015,Eastern region,"      Mathematicians, Statisticians and Actuaries",44.17
+2013,Eastern region,   Computer and Information Systems Professionals,39.04
+2014,Eastern region,   Computer and Information Systems Professionals,39.39
+2015,Eastern region,   Computer and Information Systems Professionals,39.26
+2013,Eastern region,    Technical Occupations In Physical Sciences,30.19
+2014,Eastern region,    Technical Occupations In Physical Sciences,31.09
+2015,Eastern region,    Technical Occupations In Physical Sciences,24.85
+2013,Eastern region,    Technical Occupations In Life Sciences,27.08
+2014,Eastern region,    Technical Occupations In Life Sciences,31.93
+2015,Eastern region,    Technical Occupations In Life Sciences,34.09
+2013,Eastern region,"    Technical Occupations In Civil, Mechanical And Industrial Engineering",31.55
+2014,Eastern region,"    Technical Occupations In Civil, Mechanical And Industrial Engineering",29.19
+2015,Eastern region,"    Technical Occupations In Civil, Mechanical And Industrial Engineering",27.38
+2013,Eastern region,    Technical Occupations In Electronics And Electrical Engineering,28.05
+2014,Eastern region,    Technical Occupations In Electronics And Electrical Engineering,29.44
+2015,Eastern region,    Technical Occupations In Electronics And Electrical Engineering,28.69
+2013,Eastern region,"    Technical Occupations In Architecture, Drafting, Surveying And Mapping",26.83
+2014,Eastern region,"    Technical Occupations In Architecture, Drafting, Surveying And Mapping",27.21
+2015,Eastern region,"    Technical Occupations In Architecture, Drafting, Surveying And Mapping",29.31
+2013,Eastern region,    Other Technical Inspectors And Regulatory Officers,28.84
+2014,Eastern region,    Other Technical Inspectors And Regulatory Officers,35.86
+2015,Eastern region,    Other Technical Inspectors And Regulatory Officers,31.11
+2013,Eastern region,    Transportation Officers And Controllers,36.5
+2013,Eastern region,   Technical Occupations in Computer and Information Systems,28.81
+2014,Eastern region,   Technical Occupations in Computer and Information Systems,30.85
+2015,Eastern region,   Technical Occupations in Computer and Information Systems,34.24
+2013,Eastern region,"    Physicians, Dentists And Veterinarians",38.19
+2014,Eastern region,"    Physicians, Dentists And Veterinarians",33.11
+2015,Eastern region,"    Physicians, Dentists And Veterinarians",33.36
+2013,Eastern region,"    Pharmacists, Dietitians And Nutritionists",36.35
+2014,Eastern region,"    Pharmacists, Dietitians And Nutritionists",47.76
+2015,Eastern region,"    Pharmacists, Dietitians And Nutritionists",54.54
+2013,Eastern region,    Therapy And Assessment Professionals,35.25
+2014,Eastern region,    Therapy And Assessment Professionals,32.22
+2015,Eastern region,    Therapy And Assessment Professionals,38.09
+2013,Eastern region,    Nurse Supervisors And Registered Nurses,34.12
+2014,Eastern region,    Nurse Supervisors And Registered Nurses,35.6
+2015,Eastern region,    Nurse Supervisors And Registered Nurses,35.39
+2013,Eastern region,    Medical Technologists And Technicians (Except Dental Health),26.06
+2014,Eastern region,    Medical Technologists And Technicians (Except Dental Health),29.44
+2015,Eastern region,    Medical Technologists And Technicians (Except Dental Health),31.31
+2013,Eastern region,    Technical Occupations In Dental Health Care,36.1
+2014,Eastern region,    Technical Occupations In Dental Health Care,33.67
+2015,Eastern region,    Technical Occupations In Dental Health Care,31.72
+2013,Eastern region,    Other Technical Occupations In Health Care (Except Dental),27.85
+2014,Eastern region,    Other Technical Occupations In Health Care (Except Dental),26.9
+2015,Eastern region,    Other Technical Occupations In Health Care (Except Dental),31.52
+2013,Eastern region,    Assisting Occupations In Support Of Health Services,19.85
+2014,Eastern region,    Assisting Occupations In Support Of Health Services,20.29
+2015,Eastern region,    Assisting Occupations In Support Of Health Services,20.57
+2013,Eastern region,"    Judges, Lawyers And Quebec Notaries",46.19
+2014,Eastern region,"    Judges, Lawyers And Quebec Notaries",45.16
+2015,Eastern region,"    Judges, Lawyers And Quebec Notaries",52.27
+2013,Eastern region,"    Psychologists, Social Workers, Counsellors, Clergy And Probation Officers",30.04
+2014,Eastern region,"    Psychologists, Social Workers, Counsellors, Clergy And Probation Officers",32.23
+2015,Eastern region,"    Psychologists, Social Workers, Counsellors, Clergy And Probation Officers",28.73
+2013,Eastern region,"    Policy And Program Officers, Researchers And Consultants",39.52
+2014,Eastern region,"    Policy And Program Officers, Researchers And Consultants",39.44
+2015,Eastern region,"    Policy And Program Officers, Researchers And Consultants",38.59
+2013,Eastern region,    University Professors And Assistants,37.98
+2014,Eastern region,    University Professors And Assistants,34.83
+2015,Eastern region,    University Professors And Assistants,34.34
+2013,Eastern region,    College And Other Vocational Instructors,35.18
+2014,Eastern region,    College And Other Vocational Instructors,33.56
+2015,Eastern region,    College And Other Vocational Instructors,36.85
+2013,Eastern region,    Secondary And Elementary School Teachers And Counsellors,37.69
+2014,Eastern region,    Secondary And Elementary School Teachers And Counsellors,37.31
+2015,Eastern region,    Secondary And Elementary School Teachers And Counsellors,38.18
+2013,Eastern region,"    Paralegals, Social Services Workers And Occupations In Education And Religion, N.E.C.",22.87
+2014,Eastern region,"    Paralegals, Social Services Workers And Occupations In Education And Religion, N.E.C.",22.38
+2015,Eastern region,"    Paralegals, Social Services Workers And Occupations In Education And Religion, N.E.C.",22.88
+2013,Eastern region,"    Writing, Translating And Public Relations Professionals",33.26
+2014,Eastern region,"    Writing, Translating And Public Relations Professionals",31.31
+2015,Eastern region,"    Writing, Translating And Public Relations Professionals",34.37
+2014,Eastern region,    Creative And Performing Artists,22.75
+2013,Eastern region,"    Technical Occupations In Libraries, Archives, Museums And Galleries",26.14
+2013,Eastern region,    Creative Designers And Craftspersons,23.55
+2014,Eastern region,    Creative Designers And Craftspersons,23.45
+2015,Eastern region,    Creative Designers And Craftspersons,24.12
+2013,Eastern region,"    Athletes, Coaches, Referees And Related Occupations",15.21
+2014,Eastern region,"    Athletes, Coaches, Referees And Related Occupations",15.91
+2015,Eastern region,"    Athletes, Coaches, Referees And Related Occupations",17.74
+2013,Eastern region,    Sales And Service Supervisors,16.68
+2014,Eastern region,    Sales And Service Supervisors,17.99
+2015,Eastern region,    Sales And Service Supervisors,19.78
+2013,Eastern region,"    Sales Representatives, Wholesale Trade",25.73
+2014,Eastern region,"    Sales Representatives, Wholesale Trade",27.28
+2015,Eastern region,"    Sales Representatives, Wholesale Trade",30.35
+2013,Eastern region,"    Technical Sales Specialists, Wholesale Trade",29.99
+2014,Eastern region,"    Technical Sales Specialists, Wholesale Trade",31.77
+2015,Eastern region,"    Technical Sales Specialists, Wholesale Trade",33.79
+2013,Eastern region,    Insurance And Real Estate Sales Occupations And Buyers,24.13
+2014,Eastern region,    Insurance And Real Estate Sales Occupations And Buyers,22.94
+2015,Eastern region,    Insurance And Real Estate Sales Occupations And Buyers,22.12
+2013,Eastern region,    Retail Salespersons And Sales Clerks,13.72
+2014,Eastern region,    Retail Salespersons And Sales Clerks,13.93
+2015,Eastern region,    Retail Salespersons And Sales Clerks,13.67
+2013,Eastern region,    Cashiers,11.09
+2014,Eastern region,    Cashiers,11.24
+2015,Eastern region,    Cashiers,11.68
+2013,Eastern region,    Chefs And Cooks,13.98
+2014,Eastern region,    Chefs And Cooks,13.95
+2015,Eastern region,    Chefs And Cooks,14.78
+2013,Eastern region,    Occupations In Food And Beverage Service,13.13
+2014,Eastern region,    Occupations In Food And Beverage Service,14.3
+2015,Eastern region,    Occupations In Food And Beverage Service,14.77
+2013,Eastern region,    Police Officers And Fire-Fighters,35.18
+2014,Eastern region,    Police Officers And Fire-Fighters,37.88
+2015,Eastern region,    Police Officers And Fire-Fighters,39.75
+2013,Eastern region,    Other Occupations In Protective Service,27.94
+2014,Eastern region,    Other Occupations In Protective Service,30.54
+2015,Eastern region,    Other Occupations In Protective Service,39.29
+2013,Eastern region,    Security Guards And Related Occupations,17.66
+2014,Eastern region,    Security Guards And Related Occupations,17.46
+2015,Eastern region,    Security Guards And Related Occupations,19.13
+2013,Eastern region,    Occupations In Travel And Accommodation,19.39
+2014,Eastern region,    Occupations In Travel And Accommodation,19.44
+2015,Eastern region,    Occupations In Travel And Accommodation,17.79
+2013,Eastern region,"    Other Attendants In Travel, Accommodation And Recreation",14.13
+2014,Eastern region,"    Other Attendants In Travel, Accommodation And Recreation",11.79
+2015,Eastern region,"    Other Attendants In Travel, Accommodation And Recreation",14.39
+2013,Eastern region,    Childcare And Home Support Workers,17.9
+2014,Eastern region,    Childcare And Home Support Workers,17.23
+2015,Eastern region,    Childcare And Home Support Workers,18.13
+2013,Eastern region,    Technical Occupations In Personal Service,16.5
+2014,Eastern region,    Technical Occupations In Personal Service,14.53
+2015,Eastern region,    Technical Occupations In Personal Service,16.85
+2013,Eastern region,    Other Occupations In Personal Service,14.92
+2014,Eastern region,    Other Occupations In Personal Service,15
+2015,Eastern region,    Other Occupations In Personal Service,15.25
+2013,Eastern region,    Cleaners,16.61
+2014,Eastern region,    Cleaners,15.98
+2015,Eastern region,    Cleaners,15.86
+2013,Eastern region,    Butchers And Bakers,11.7
+2014,Eastern region,    Butchers And Bakers,15.26
+2015,Eastern region,    Butchers And Bakers,13.68
+2013,Eastern region,    Food Counter Attendants And Kitchen Helpers,12.01
+2014,Eastern region,    Food Counter Attendants And Kitchen Helpers,12.27
+2015,Eastern region,    Food Counter Attendants And Kitchen Helpers,12.28
+2013,Eastern region,    Other Sales And Related Occupations,12.34
+2014,Eastern region,    Other Sales And Related Occupations,12.67
+2015,Eastern region,    Other Sales And Related Occupations,12.74
+2013,Eastern region,    Other Elemental Service Occupations,14.56
+2014,Eastern region,    Other Elemental Service Occupations,15.4
+2015,Eastern region,    Other Elemental Service Occupations,12.99
+2013,Eastern region,"    Contractors And Supervisors, Trades And Related Workers",27.42
+2014,Eastern region,"    Contractors And Supervisors, Trades And Related Workers",29.26
+2015,Eastern region,"    Contractors And Supervisors, Trades And Related Workers",29.42
+2013,Eastern region,"    Plumbers, Pipefitters And Gas Fitters",22.46
+2014,Eastern region,"    Plumbers, Pipefitters And Gas Fitters",25.91
+2015,Eastern region,"    Plumbers, Pipefitters And Gas Fitters",30.85
+2013,Eastern region,    Carpenters And Cabinetmakers,21.26
+2014,Eastern region,    Carpenters And Cabinetmakers,20.9
+2015,Eastern region,    Carpenters And Cabinetmakers,20.66
+2014,Eastern region,    Masonry And Plastering Trades,24.93
+2013,Eastern region,    Other Construction Trades,20.37
+2014,Eastern region,    Other Construction Trades,20.42
+2015,Eastern region,    Other Construction Trades,22.04
+2013,Eastern region,    Electrical Trades And Telecommunications Occupations,27.74
+2014,Eastern region,    Electrical Trades And Telecommunications Occupations,29.32
+2015,Eastern region,    Electrical Trades And Telecommunications Occupations,30.89
+2013,Eastern region,    Machinists And Related Occupations,25.92
+2015,Eastern region,    Machinists And Related Occupations,24
+2013,Eastern region,"    Metal Forming, Shaping And Erecting Occupations",25.9
+2014,Eastern region,"    Metal Forming, Shaping And Erecting Occupations",24.12
+2015,Eastern region,"    Metal Forming, Shaping And Erecting Occupations",25.05
+2013,Eastern region,    Machinery And Transportation Equipment Mechanics (Except MotorVehicle),27.14
+2014,Eastern region,    Machinery And Transportation Equipment Mechanics (Except MotorVehicle),27.49
+2015,Eastern region,    Machinery And Transportation Equipment Mechanics (Except MotorVehicle),28.54
+2013,Eastern region,    Motor Vehicle Mechanics,19.91
+2014,Eastern region,    Motor Vehicle Mechanics,21.14
+2015,Eastern region,    Motor Vehicle Mechanics,22.9
+2013,Eastern region,"    Other Installers, Repairers And Servicers",19.69
+2014,Eastern region,"    Other Installers, Repairers And Servicers",18.42
+2015,Eastern region,"    Other Installers, Repairers And Servicers",17.72
+2013,Eastern region,    Heavy Equipment Operators,23.44
+2014,Eastern region,    Heavy Equipment Operators,23.82
+2015,Eastern region,    Heavy Equipment Operators,26.86
+2013,Eastern region,    Motor Vehicle And Transit Drivers,18.57
+2014,Eastern region,    Motor Vehicle And Transit Drivers,18.89
+2015,Eastern region,    Motor Vehicle And Transit Drivers,19.08
+2013,Eastern region,    Longshore Workers And Material Handlers,17.94
+2014,Eastern region,    Longshore Workers And Material Handlers,18.06
+2015,Eastern region,    Longshore Workers And Material Handlers,16.94
+2013,Eastern region,    Trades Helpers And Labourers,19.91
+2014,Eastern region,    Trades Helpers And Labourers,20.01
+2015,Eastern region,    Trades Helpers And Labourers,17.82
+2014,Eastern region,"    Public Works And Other Labourers, N.E.C.",23.63
+2013,Eastern region,"    Contractors, Operators And Supervisors In Agriculture, Horticulture And Aquaculture",19.97
+2014,Eastern region,"    Contractors, Operators And Supervisors In Agriculture, Horticulture And Aquaculture",22.17
+2015,Eastern region,"    Contractors, Operators And Supervisors In Agriculture, Horticulture And Aquaculture",19.93
+2013,Eastern region,    Agriculture And Horticulture Workers,12.82
+2014,Eastern region,    Agriculture And Horticulture Workers,14.03
+2015,Eastern region,    Agriculture And Horticulture Workers,14.21
+2013,Eastern region,    Primary Production Labourers,15.14
+2014,Eastern region,    Primary Production Labourers,14.85
+2015,Eastern region,    Primary Production Labourers,15.45
+2013,Eastern region,"    Supervisors, Processing Occupations",29.86
+2014,Eastern region,"    Supervisors, Processing Occupations",29.07
+2015,Eastern region,"    Supervisors, Processing Occupations",27.01
+2014,Eastern region,"    Supervisors, Assembly And Fabrication",28.49
+2015,Eastern region,"    Supervisors, Assembly And Fabrication",25.09
+2013,Eastern region,"    Machine Operators And Related Workers In Chemical, Plastic And Rubber Processing",19.65
+2014,Eastern region,"    Machine Operators And Related Workers In Chemical, Plastic And Rubber Processing",22.95
+2015,Eastern region,"    Machine Operators And Related Workers In Chemical, Plastic And Rubber Processing",23.23
+2014,Eastern region,    Machine Operators And Related Workers In Pulp And Paper Production And Wood Processing,19.86
+2013,Eastern region,"    Machine Operators And Related Workers In Food, Beverage And Tobacco Processing",19.01
+2014,Eastern region,"    Machine Operators And Related Workers In Food, Beverage And Tobacco Processing",20.53
+2015,Eastern region,"    Machine Operators And Related Workers In Food, Beverage And Tobacco Processing",20.74
+2013,Eastern region,"    Machining, Metalworking, Woodworking And Related Machine Operators",18.96
+2014,Eastern region,"    Machining, Metalworking, Woodworking And Related Machine Operators",18.68
+2015,Eastern region,"    Machining, Metalworking, Woodworking And Related Machine Operators",19.55
+2013,Eastern region,"    Mechanical, Electrical And Electronics Assemblers",19.47
+2014,Eastern region,"    Mechanical, Electrical And Electronics Assemblers",20.79
+2015,Eastern region,"    Mechanical, Electrical And Electronics Assemblers",20.79
+2013,Eastern region,    Other Assembly And Related Occupations,17.36
+2014,Eastern region,    Other Assembly And Related Occupations,19.93
+2015,Eastern region,    Other Assembly And Related Occupations,16.83
+2013,Eastern region,"    Labourers In Processing, Manufacturing And Utilities",15.32
+2014,Eastern region,"    Labourers In Processing, Manufacturing And Utilities",15.82
+2015,Eastern region,"    Labourers In Processing, Manufacturing And Utilities",19.18
+2013,Central region,Management occupations,40.87
+2014,Central region,Management occupations,42.27
+2015,Central region,Management occupations,43.32
+2013,Central region,   Senior management occupations,52.51
+2014,Central region,   Senior management occupations,50.92
+2015,Central region,   Senior management occupations,53.55
+2013,Central region,   Other management occupations,39.92
+2014,Central region,   Other management occupations,41.65
+2015,Central region,   Other management occupations,42.74
+2013,Central region,"Business, finance and administrative occupations",23.74
+2014,Central region,"Business, finance and administrative occupations",24.25
+2015,Central region,"Business, finance and administrative occupations",25.39
+2013,Central region,   Professional occupations in business and finance,35.53
+2014,Central region,   Professional occupations in business and finance,35.18
+2015,Central region,   Professional occupations in business and finance,36.49
+2013,Central region,"   Financial, secretarial and administrative occupations",23.9
+2014,Central region,"   Financial, secretarial and administrative occupations",24.68
+2015,Central region,"   Financial, secretarial and administrative occupations",24.71
+2013,Central region,"   Clerical occupations, including supervisors",19.8
+2014,Central region,"   Clerical occupations, including supervisors",20.08
+2015,Central region,"   Clerical occupations, including supervisors",20.84
+2013,Central region,Natural and applied sciences and related occupations,34.11
+2014,Central region,Natural and applied sciences and related occupations,34.49
+2015,Central region,Natural and applied sciences and related occupations,35.96
+2013,Central region,Health occupations,28.53
+2014,Central region,Health occupations,28.77
+2015,Central region,Health occupations,29
+2013,Central region,"   Professional occupations in health, nurse supervisors and registered nurses",35.66
+2014,Central region,"   Professional occupations in health, nurse supervisors and registered nurses",36.8
+2015,Central region,"   Professional occupations in health, nurse supervisors and registered nurses",35.05
+2013,Central region,"   Technical, assisting and related occupations in health",22.93
+2014,Central region,"   Technical, assisting and related occupations in health",22.68
+2015,Central region,"   Technical, assisting and related occupations in health",24.06
+2013,Central region,"Occupations in social science, education, government service and religion",32.51
+2014,Central region,"Occupations in social science, education, government service and religion",32.59
+2015,Central region,"Occupations in social science, education, government service and religion",32.79
+2013,Central region,"   Occupations in social science, government service and religion",28.84
+2014,Central region,"   Occupations in social science, government service and religion",29.28
+2015,Central region,"   Occupations in social science, government service and religion",29.55
+2013,Central region,   Teachers and professors,36.65
+2014,Central region,   Teachers and professors,36.08
+2015,Central region,   Teachers and professors,36.44
+2013,Central region,"Occupations in art, culture, recreation and sport",25.68
+2014,Central region,"Occupations in art, culture, recreation and sport",25
+2015,Central region,"Occupations in art, culture, recreation and sport",26.42
+2013,Central region,Sales and service occupations,16.28
+2014,Central region,Sales and service occupations,16.39
+2015,Central region,Sales and service occupations,17.48
+2013,Central region,"   Wholesale, technical, insurance, real estate sales specialists, and retail, wholesale and grain buyers",25.87
+2014,Central region,"   Wholesale, technical, insurance, real estate sales specialists, and retail, wholesale and grain buyers",25.3
+2015,Central region,"   Wholesale, technical, insurance, real estate sales specialists, and retail, wholesale and grain buyers",28.04
+2013,Central region,"   Retail salespersons, sales clerks, cashiers, including retail trade supervisors",13.59
+2014,Central region,"   Retail salespersons, sales clerks, cashiers, including retail trade supervisors",13.67
+2015,Central region,"   Retail salespersons, sales clerks, cashiers, including retail trade supervisors",14.44
+2013,Central region,"   Chefs and cooks, and occupations in food and beverage service, including supervisors",13.75
+2014,Central region,"   Chefs and cooks, and occupations in food and beverage service, including supervisors",14.52
+2015,Central region,"   Chefs and cooks, and occupations in food and beverage service, including supervisors",14.76
+2013,Central region,   Occupation in protective services,24.37
+2014,Central region,   Occupation in protective services,22.76
+2015,Central region,   Occupation in protective services,26.24
+2013,Central region,   Childcare and home support workers,15.65
+2014,Central region,   Childcare and home support workers,15.88
+2015,Central region,   Childcare and home support workers,17.79
+2013,Central region,"   Sales and service occupations not elsewhere classified, including occupations in travel and accommodation, attendants in recreation and sport as well as supervisors",14.78
+2014,Central region,"   Sales and service occupations not elsewhere classified, including occupations in travel and accommodation, attendants in recreation and sport as well as supervisors",15.06
+2015,Central region,"   Sales and service occupations not elsewhere classified, including occupations in travel and accommodation, attendants in recreation and sport as well as supervisors",14.84
+2013,Central region,"Trades, transport and equipment operators and related occupations",22.79
+2014,Central region,"Trades, transport and equipment operators and related occupations",23.21
+2015,Central region,"Trades, transport and equipment operators and related occupations",24.53
+2013,Central region,   Contractors and supervisors in trades and transportation,29.67
+2014,Central region,   Contractors and supervisors in trades and transportation,29.2
+2015,Central region,   Contractors and supervisors in trades and transportation,32.94
+2013,Central region,   Construction trades,25.06
+2014,Central region,   Construction trades,26.22
+2015,Central region,   Construction trades,28.54
+2013,Central region,   Other trades occupations,24.64
+2014,Central region,   Other trades occupations,25.09
+2015,Central region,   Other trades occupations,26.07
+2013,Central region,   Transport and equipment operators,20.72
+2014,Central region,   Transport and equipment operators,20.71
+2015,Central region,   Transport and equipment operators,22.25
+2013,Central region,"   Trades helpers, construction, and transportation labourers and related occupations",18.78
+2014,Central region,"   Trades helpers, construction, and transportation labourers and related occupations",18.4
+2015,Central region,"   Trades helpers, construction, and transportation labourers and related occupations",17.97
+2013,Central region,Occupations unique to primary industry,18.21
+2014,Central region,Occupations unique to primary industry,18.05
+2015,Central region,Occupations unique to primary industry,18.02
+2013,Central region,"Occupations unique to processing, manufacturing and utilities",18.6
+2014,Central region,"Occupations unique to processing, manufacturing and utilities",19.49
+2015,Central region,"Occupations unique to processing, manufacturing and utilities",18.83
+2013,Central region,"   Machine operators and assemblers in manufacturing, including supervisors",19.43
+2014,Central region,"   Machine operators and assemblers in manufacturing, including supervisors",20.74
+2015,Central region,"   Machine operators and assemblers in manufacturing, including supervisors",20.01
+2013,Central region,"   Labourer in processing, manufacturing and utilities",14.77
+2014,Central region,"   Labourer in processing, manufacturing and utilities",14.73
+2015,Central region,"   Labourer in processing, manufacturing and utilities",14.71
+2013,Central region,    Legislators And Senior Management,52.51
+2014,Central region,    Legislators And Senior Management,50.92
+2015,Central region,    Legislators And Senior Management,53.55
+2013,Central region,    Administrative Services Managers,45.03
+2014,Central region,    Administrative Services Managers,44.52
+2015,Central region,    Administrative Services Managers,45.38
+2013,Central region,"    Managers In Engineering, Architecture, Science And Information Systems",45.62
+2014,Central region,"    Managers In Engineering, Architecture, Science And Information Systems",46.06
+2015,Central region,"    Managers In Engineering, Architecture, Science And Information Systems",50.07
+2013,Central region,"    Sales, Marketing And Advertising Managers",42.98
+2014,Central region,"    Sales, Marketing And Advertising Managers",41.16
+2015,Central region,"    Sales, Marketing And Advertising Managers",44.13
+2013,Central region,    Facility Operation And Maintenance Managers,29.96
+2014,Central region,    Facility Operation And Maintenance Managers,34.89
+2015,Central region,    Facility Operation And Maintenance Managers,38.66
+2013,Central region,    Managers In Retail Trade,29.65
+2014,Central region,    Managers In Retail Trade,29.59
+2015,Central region,    Managers In Retail Trade,32.28
+2013,Central region,    Managers In Food Service And Accommodation,24.53
+2014,Central region,    Managers In Food Service And Accommodation,23.93
+2015,Central region,    Managers In Food Service And Accommodation,21.55
+2013,Central region,    Managers In Financial And Business Services,40.97
+2014,Central region,    Managers In Financial And Business Services,46.26
+2015,Central region,    Managers In Financial And Business Services,45.91
+2013,Central region,    Managers In Communication (Except Broadcasting),43
+2014,Central region,    Managers In Communication (Except Broadcasting),41.48
+2015,Central region,    Managers In Communication (Except Broadcasting),49.26
+2013,Central region,"    Managers In Health, Education, Social And Community Services",44.7
+2014,Central region,"    Managers In Health, Education, Social And Community Services",45.97
+2015,Central region,"    Managers In Health, Education, Social And Community Services",40.7
+2013,Central region,    Managers In Public Administration,43.33
+2014,Central region,    Managers In Public Administration,49.1
+2015,Central region,    Managers In Public Administration,52.91
+2013,Central region,"    Managers In Art, Culture, Recreation And Sport",43.44
+2014,Central region,"    Managers In Art, Culture, Recreation And Sport",33.42
+2015,Central region,"    Managers In Art, Culture, Recreation And Sport",41.56
+2013,Central region,    Managers In Protective Service,61.49
+2013,Central region,    Managers In Other Services,28.19
+2014,Central region,    Managers In Other Services,40.15
+2013,Central region,    Managers In Construction And Transportation,32.49
+2014,Central region,    Managers In Construction And Transportation,39.17
+2015,Central region,    Managers In Construction And Transportation,39.03
+2013,Central region,    Managers In Manufacturing And Utilities,41.83
+2014,Central region,    Managers In Manufacturing And Utilities,42.14
+2015,Central region,    Managers In Manufacturing And Utilities,46.57
+2013,Central region,"    Auditors, Accountants And Investment Professionals",35.35
+2014,Central region,"    Auditors, Accountants And Investment Professionals",35.6
+2015,Central region,"    Auditors, Accountants And Investment Professionals",37.3
+2013,Central region,    Human Resources And Business Service Professionals,35.95
+2014,Central region,    Human Resources And Business Service Professionals,34.12
+2015,Central region,    Human Resources And Business Service Professionals,34.08
+2013,Central region,    Finance And Insurance Administrative Occupations,24.77
+2014,Central region,    Finance And Insurance Administrative Occupations,25.56
+2015,Central region,    Finance And Insurance Administrative Occupations,25.47
+2013,Central region,"    Secretaries, Recorders And Transcriptionists",18.69
+2014,Central region,"    Secretaries, Recorders And Transcriptionists",19.98
+2015,Central region,"    Secretaries, Recorders And Transcriptionists",21.56
+2013,Central region,    Administrative And Regulatory Occupations,24.68
+2014,Central region,    Administrative And Regulatory Occupations,25.26
+2015,Central region,    Administrative And Regulatory Occupations,24.87
+2013,Central region,    Clerical Supervisors,24.11
+2014,Central region,    Clerical Supervisors,24.67
+2015,Central region,    Clerical Supervisors,26.4
+2013,Central region,"    Clerical Occupations, General Office Skills",17.45
+2014,Central region,"    Clerical Occupations, General Office Skills",17.57
+2015,Central region,"    Clerical Occupations, General Office Skills",17.69
+2013,Central region,    Office Equipment Operators,19.22
+2014,Central region,    Office Equipment Operators,17.92
+2015,Central region,    Office Equipment Operators,17.55
+2013,Central region,    Finance And Insurance Clerks,20.27
+2014,Central region,    Finance And Insurance Clerks,20.97
+2015,Central region,    Finance And Insurance Clerks,20.35
+2013,Central region,    Administrative Support Clerks,21.14
+2014,Central region,    Administrative Support Clerks,21.04
+2015,Central region,    Administrative Support Clerks,22.41
+2013,Central region,"    Library, Correspondence And Related Information Clerks",18.52
+2014,Central region,"    Library, Correspondence And Related Information Clerks",17.56
+2015,Central region,"    Library, Correspondence And Related Information Clerks",19.68
+2013,Central region,    Mail And Message Distribution Occupations,19.5
+2014,Central region,    Mail And Message Distribution Occupations,20.35
+2015,Central region,    Mail And Message Distribution Occupations,20.53
+2013,Central region,"    Recording, Scheduling And Distributing Occupations",18.89
+2014,Central region,"    Recording, Scheduling And Distributing Occupations",19.12
+2015,Central region,"    Recording, Scheduling And Distributing Occupations",19.41
+2013,Central region,    Physical Science Professionals,38.18
+2014,Central region,    Physical Science Professionals,34.26
+2015,Central region,    Physical Science Professionals,39.18
+2013,Central region,    Life Science Professionals,27.32
+2014,Central region,    Life Science Professionals,37.43
+2013,Central region,"    Civil, Mechanical, Electrical And Chemical Engineers",42.03
+2014,Central region,"    Civil, Mechanical, Electrical And Chemical Engineers",36.43
+2015,Central region,"    Civil, Mechanical, Electrical And Chemical Engineers",40.77
+2013,Central region,    Other Engineers,36.76
+2014,Central region,    Other Engineers,43.89
+2015,Central region,    Other Engineers,39.89
+2013,Central region,"    Architects, Urban Planners And Land Surveyors",36.82
+2014,Central region,"    Architects, Urban Planners And Land Surveyors",35.55
+2015,Central region,"    Architects, Urban Planners And Land Surveyors",36.52
+2013,Central region,"      Mathematicians, Statisticians and Actuaries",48.79
+2014,Central region,"      Mathematicians, Statisticians and Actuaries",49.9
+2015,Central region,"      Mathematicians, Statisticians and Actuaries",48.72
+2013,Central region,   Computer and Information Systems Professionals,37.05
+2014,Central region,   Computer and Information Systems Professionals,36.71
+2015,Central region,   Computer and Information Systems Professionals,38.96
+2013,Central region,    Technical Occupations In Physical Sciences,24.02
+2014,Central region,    Technical Occupations In Physical Sciences,26.51
+2015,Central region,    Technical Occupations In Physical Sciences,27.97
+2013,Central region,    Technical Occupations In Life Sciences,21.94
+2014,Central region,    Technical Occupations In Life Sciences,23.8
+2015,Central region,    Technical Occupations In Life Sciences,24.91
+2013,Central region,"    Technical Occupations In Civil, Mechanical And Industrial Engineering",29.37
+2014,Central region,"    Technical Occupations In Civil, Mechanical And Industrial Engineering",32.8
+2015,Central region,"    Technical Occupations In Civil, Mechanical And Industrial Engineering",29.76
+2013,Central region,    Technical Occupations In Electronics And Electrical Engineering,26.87
+2014,Central region,    Technical Occupations In Electronics And Electrical Engineering,23.92
+2015,Central region,    Technical Occupations In Electronics And Electrical Engineering,28.74
+2013,Central region,"    Technical Occupations In Architecture, Drafting, Surveying And Mapping",27
+2014,Central region,"    Technical Occupations In Architecture, Drafting, Surveying And Mapping",28.21
+2015,Central region,"    Technical Occupations In Architecture, Drafting, Surveying And Mapping",29.23
+2013,Central region,    Other Technical Inspectors And Regulatory Officers,32.53
+2014,Central region,    Other Technical Inspectors And Regulatory Officers,32.24
+2015,Central region,    Other Technical Inspectors And Regulatory Officers,37.55
+2013,Central region,    Transportation Officers And Controllers,45.53
+2014,Central region,    Transportation Officers And Controllers,38.23
+2015,Central region,    Transportation Officers And Controllers,39.55
+2013,Central region,   Technical Occupations in Computer and Information Systems,30.15
+2014,Central region,   Technical Occupations in Computer and Information Systems,30.63
+2015,Central region,   Technical Occupations in Computer and Information Systems,31.14
+2013,Central region,"    Physicians, Dentists And Veterinarians",30.91
+2014,Central region,"    Physicians, Dentists And Veterinarians",34.12
+2015,Central region,"    Physicians, Dentists And Veterinarians",28.87
+2013,Central region,"    Pharmacists, Dietitians And Nutritionists",40.91
+2014,Central region,"    Pharmacists, Dietitians And Nutritionists",40.49
+2015,Central region,"    Pharmacists, Dietitians And Nutritionists",41.26
+2013,Central region,    Therapy And Assessment Professionals,33.8
+2014,Central region,    Therapy And Assessment Professionals,37.84
+2015,Central region,    Therapy And Assessment Professionals,40.01
+2013,Central region,    Nurse Supervisors And Registered Nurses,36.18
+2014,Central region,    Nurse Supervisors And Registered Nurses,36.57
+2015,Central region,    Nurse Supervisors And Registered Nurses,34.86
+2013,Central region,    Medical Technologists And Technicians (Except Dental Health),26.61
+2014,Central region,    Medical Technologists And Technicians (Except Dental Health),27.47
+2015,Central region,    Medical Technologists And Technicians (Except Dental Health),24.98
+2013,Central region,    Technical Occupations In Dental Health Care,34.65
+2014,Central region,    Technical Occupations In Dental Health Care,32.55
+2015,Central region,    Technical Occupations In Dental Health Care,34.54
+2013,Central region,    Other Technical Occupations In Health Care (Except Dental),26.26
+2014,Central region,    Other Technical Occupations In Health Care (Except Dental),26.39
+2015,Central region,    Other Technical Occupations In Health Care (Except Dental),27.29
+2013,Central region,    Assisting Occupations In Support Of Health Services,18.7
+2014,Central region,    Assisting Occupations In Support Of Health Services,19.44
+2015,Central region,    Assisting Occupations In Support Of Health Services,21.36
+2013,Central region,"    Judges, Lawyers And Quebec Notaries",43.49
+2014,Central region,"    Judges, Lawyers And Quebec Notaries",45.82
+2015,Central region,"    Judges, Lawyers And Quebec Notaries",46.96
+2013,Central region,"    Psychologists, Social Workers, Counsellors, Clergy And Probation Officers",29.61
+2014,Central region,"    Psychologists, Social Workers, Counsellors, Clergy And Probation Officers",29.47
+2015,Central region,"    Psychologists, Social Workers, Counsellors, Clergy And Probation Officers",30.32
+2013,Central region,"    Policy And Program Officers, Researchers And Consultants",34.97
+2014,Central region,"    Policy And Program Officers, Researchers And Consultants",35.96
+2015,Central region,"    Policy And Program Officers, Researchers And Consultants",35.61
+2013,Central region,    University Professors And Assistants,36.25
+2014,Central region,    University Professors And Assistants,36.22
+2015,Central region,    University Professors And Assistants,31.95
+2013,Central region,    College And Other Vocational Instructors,34.44
+2014,Central region,    College And Other Vocational Instructors,32.53
+2015,Central region,    College And Other Vocational Instructors,41.57
+2013,Central region,    Secondary And Elementary School Teachers And Counsellors,37.07
+2014,Central region,    Secondary And Elementary School Teachers And Counsellors,36.76
+2015,Central region,    Secondary And Elementary School Teachers And Counsellors,36.59
+2013,Central region,"    Paralegals, Social Services Workers And Occupations In Education And Religion, N.E.C.",22.38
+2014,Central region,"    Paralegals, Social Services Workers And Occupations In Education And Religion, N.E.C.",21.87
+2015,Central region,"    Paralegals, Social Services Workers And Occupations In Education And Religion, N.E.C.",21.71
+2013,Central region,"    Librarians, Archivists, Conservators And Curators",31.61
+2014,Central region,"    Librarians, Archivists, Conservators And Curators",33.01
+2015,Central region,"    Librarians, Archivists, Conservators And Curators",38.78
+2013,Central region,"    Writing, Translating And Public Relations Professionals",30.56
+2014,Central region,"    Writing, Translating And Public Relations Professionals",30.46
+2015,Central region,"    Writing, Translating And Public Relations Professionals",32.91
+2013,Central region,    Creative And Performing Artists,27.82
+2014,Central region,    Creative And Performing Artists,29.36
+2015,Central region,    Creative And Performing Artists,26.32
+2013,Central region,"    Technical Occupations In Libraries, Archives, Museums And Galleries",20.57
+2014,Central region,"    Technical Occupations In Libraries, Archives, Museums And Galleries",20.28
+2015,Central region,"    Technical Occupations In Libraries, Archives, Museums And Galleries",23.14
+2013,Central region,"    Photographers, Graphic Arts Technicians And Technical Occupations ",33.69
+2014,Central region,"    Photographers, Graphic Arts Technicians And Technical Occupations ",26.94
+2015,Central region,"    Photographers, Graphic Arts Technicians And Technical Occupations ",27.92
+2013,Central region,    Creative Designers And Craftspersons,26.3
+2014,Central region,    Creative Designers And Craftspersons,27.79
+2015,Central region,    Creative Designers And Craftspersons,27.59
+2013,Central region,"    Athletes, Coaches, Referees And Related Occupations",18.3
+2014,Central region,"    Athletes, Coaches, Referees And Related Occupations",14.83
+2015,Central region,"    Athletes, Coaches, Referees And Related Occupations",16.28
+2013,Central region,    Sales And Service Supervisors,18.17
+2014,Central region,    Sales And Service Supervisors,18.24
+2015,Central region,    Sales And Service Supervisors,19.01
+2013,Central region,"    Sales Representatives, Wholesale Trade",25.17
+2014,Central region,"    Sales Representatives, Wholesale Trade",24.83
+2015,Central region,"    Sales Representatives, Wholesale Trade",27.27
+2013,Central region,"    Technical Sales Specialists, Wholesale Trade",27.41
+2014,Central region,"    Technical Sales Specialists, Wholesale Trade",26.95
+2015,Central region,"    Technical Sales Specialists, Wholesale Trade",31.53
+2013,Central region,    Insurance And Real Estate Sales Occupations And Buyers,25.54
+2014,Central region,    Insurance And Real Estate Sales Occupations And Buyers,23.85
+2015,Central region,    Insurance And Real Estate Sales Occupations And Buyers,25.19
+2013,Central region,    Retail Salespersons And Sales Clerks,13.71
+2014,Central region,    Retail Salespersons And Sales Clerks,13.56
+2015,Central region,    Retail Salespersons And Sales Clerks,14.25
+2013,Central region,    Cashiers,11.5
+2014,Central region,    Cashiers,11.52
+2015,Central region,    Cashiers,11.92
+2013,Central region,    Chefs And Cooks,14.13
+2014,Central region,    Chefs And Cooks,14.96
+2015,Central region,    Chefs And Cooks,15.28
+2013,Central region,    Occupations In Food And Beverage Service,13.26
+2014,Central region,    Occupations In Food And Beverage Service,14.03
+2015,Central region,    Occupations In Food And Beverage Service,14.49
+2013,Central region,    Police Officers And Fire-Fighters,35.22
+2014,Central region,    Police Officers And Fire-Fighters,35.04
+2015,Central region,    Police Officers And Fire-Fighters,39.53
+2013,Central region,    Other Occupations In Protective Service,29.36
+2014,Central region,    Other Occupations In Protective Service,29.28
+2015,Central region,    Other Occupations In Protective Service,32.05
+2013,Central region,    Security Guards And Related Occupations,16.02
+2014,Central region,    Security Guards And Related Occupations,15.11
+2015,Central region,    Security Guards And Related Occupations,15.88
+2013,Central region,    Occupations In Travel And Accommodation,20.35
+2014,Central region,    Occupations In Travel And Accommodation,20.38
+2015,Central region,    Occupations In Travel And Accommodation,20.41
+2014,Central region,    Tour And Recreational Guides And Amusement Occupations,21.58
+2015,Central region,    Tour And Recreational Guides And Amusement Occupations,19.88
+2013,Central region,"    Other Attendants In Travel, Accommodation And Recreation",13.37
+2014,Central region,"    Other Attendants In Travel, Accommodation And Recreation",13.72
+2015,Central region,"    Other Attendants In Travel, Accommodation And Recreation",15.29
+2013,Central region,    Childcare And Home Support Workers,15.65
+2014,Central region,    Childcare And Home Support Workers,15.88
+2015,Central region,    Childcare And Home Support Workers,17.79
+2013,Central region,    Technical Occupations In Personal Service,15.69
+2014,Central region,    Technical Occupations In Personal Service,16.55
+2015,Central region,    Technical Occupations In Personal Service,15.28
+2013,Central region,    Other Occupations In Personal Service,14.28
+2014,Central region,    Other Occupations In Personal Service,14.26
+2015,Central region,    Other Occupations In Personal Service,14.65
+2013,Central region,    Cleaners,16.12
+2014,Central region,    Cleaners,17.02
+2015,Central region,    Cleaners,16.14
+2013,Central region,    Butchers And Bakers,13.1
+2014,Central region,    Butchers And Bakers,14.1
+2015,Central region,    Butchers And Bakers,14.78
+2013,Central region,    Food Counter Attendants And Kitchen Helpers,11.69
+2014,Central region,    Food Counter Attendants And Kitchen Helpers,12.11
+2015,Central region,    Food Counter Attendants And Kitchen Helpers,12.03
+2013,Central region,    Other Sales And Related Occupations,12.67
+2014,Central region,    Other Sales And Related Occupations,12.96
+2015,Central region,    Other Sales And Related Occupations,13.16
+2013,Central region,    Other Elemental Service Occupations,15.41
+2014,Central region,    Other Elemental Service Occupations,14.81
+2015,Central region,    Other Elemental Service Occupations,14.55
+2013,Central region,"    Contractors And Supervisors, Trades And Related Workers",29.91
+2014,Central region,"    Contractors And Supervisors, Trades And Related Workers",29.91
+2015,Central region,"    Contractors And Supervisors, Trades And Related Workers",33.33
+2013,Central region,"    Supervisors, Railway And Motor Transportation Occupations",27.85
+2014,Central region,"    Supervisors, Railway And Motor Transportation Occupations",21.69
+2015,Central region,"    Supervisors, Railway And Motor Transportation Occupations",27.83
+2013,Central region,"    Plumbers, Pipefitters And Gas Fitters",26.89
+2014,Central region,"    Plumbers, Pipefitters And Gas Fitters",27.39
+2015,Central region,"    Plumbers, Pipefitters And Gas Fitters",32.47
+2013,Central region,    Carpenters And Cabinetmakers,23.28
+2014,Central region,    Carpenters And Cabinetmakers,25.33
+2015,Central region,    Carpenters And Cabinetmakers,26.7
+2013,Central region,    Masonry And Plastering Trades,27.05
+2014,Central region,    Masonry And Plastering Trades,27.83
+2015,Central region,    Masonry And Plastering Trades,31.37
+2013,Central region,    Other Construction Trades,22.91
+2014,Central region,    Other Construction Trades,24.16
+2015,Central region,    Other Construction Trades,22.54
+2013,Central region,    Electrical Trades And Telecommunications Occupations,27.57
+2014,Central region,    Electrical Trades And Telecommunications Occupations,28.09
+2015,Central region,    Electrical Trades And Telecommunications Occupations,30.14
+2013,Central region,    Stationary Engineers And Power Station And System Operators,31.09
+2014,Central region,    Stationary Engineers And Power Station And System Operators,39.91
+2015,Central region,    Stationary Engineers And Power Station And System Operators,35.31
+2013,Central region,    Machinists And Related Occupations,23.61
+2014,Central region,    Machinists And Related Occupations,25.51
+2015,Central region,    Machinists And Related Occupations,23.81
+2013,Central region,"    Metal Forming, Shaping And Erecting Occupations",24.77
+2014,Central region,"    Metal Forming, Shaping And Erecting Occupations",23.71
+2015,Central region,"    Metal Forming, Shaping And Erecting Occupations",24.64
+2013,Central region,    Machinery And Transportation Equipment Mechanics (Except MotorVehicle),26.31
+2014,Central region,    Machinery And Transportation Equipment Mechanics (Except MotorVehicle),27.22
+2015,Central region,    Machinery And Transportation Equipment Mechanics (Except MotorVehicle),29.69
+2013,Central region,    Motor Vehicle Mechanics,23.69
+2014,Central region,    Motor Vehicle Mechanics,23.01
+2015,Central region,    Motor Vehicle Mechanics,23.55
+2013,Central region,    Other Mechanics,22.8
+2014,Central region,    Other Mechanics,24.09
+2013,Central region,"    Upholsterers, Tailors, Shoe Repairers, Jewellers And Related Occupations",16.89
+2014,Central region,"    Upholsterers, Tailors, Shoe Repairers, Jewellers And Related Occupations",15.98
+2015,Central region,"    Upholsterers, Tailors, Shoe Repairers, Jewellers And Related Occupations",15.77
+2013,Central region,"    Printing Press Operators, Commercial Divers And Other Trades, And Related Occupations, ",22.03
+2014,Central region,"    Printing Press Operators, Commercial Divers And Other Trades, And Related Occupations, ",21.92
+2015,Central region,"    Printing Press Operators, Commercial Divers And Other Trades, And Related Occupations, ",21.5
+2013,Central region,"    Other Installers, Repairers And Servicers",19.97
+2014,Central region,"    Other Installers, Repairers And Servicers",18.32
+2015,Central region,"    Other Installers, Repairers And Servicers",20.97
+2013,Central region,    Heavy Equipment Operators,23.94
+2014,Central region,    Heavy Equipment Operators,23.48
+2015,Central region,    Heavy Equipment Operators,29.75
+2015,Central region,"    Crane Operators, Drillers And Blasters",31.04
+2013,Central region,    Motor Vehicle And Transit Drivers,20.31
+2014,Central region,    Motor Vehicle And Transit Drivers,20.06
+2015,Central region,    Motor Vehicle And Transit Drivers,20.68
+2014,Central region,    Train Crew Operating Occupations,24.95
+2013,Central region,    Other Transport Equipment Operators And Related Workers,15.01
+2014,Central region,    Other Transport Equipment Operators And Related Workers,22.06
+2015,Central region,    Other Transport Equipment Operators And Related Workers,22.03
+2013,Central region,    Longshore Workers And Material Handlers,16.71
+2014,Central region,    Longshore Workers And Material Handlers,16.86
+2015,Central region,    Longshore Workers And Material Handlers,16.02
+2013,Central region,    Trades Helpers And Labourers,22.15
+2014,Central region,    Trades Helpers And Labourers,20.62
+2015,Central region,    Trades Helpers And Labourers,22.23
+2013,Central region,"    Public Works And Other Labourers, N.E.C.",19.11
+2014,Central region,"    Public Works And Other Labourers, N.E.C.",22.42
+2015,Central region,"    Public Works And Other Labourers, N.E.C.",17.07
+2013,Central region,"    Contractors, Operators And Supervisors In Agriculture, Horticulture And Aquaculture",19.98
+2014,Central region,"    Contractors, Operators And Supervisors In Agriculture, Horticulture And Aquaculture",22.53
+2015,Central region,"    Contractors, Operators And Supervisors In Agriculture, Horticulture And Aquaculture",21.49
+2013,Central region,    Agriculture And Horticulture Workers,13.33
+2014,Central region,    Agriculture And Horticulture Workers,16.98
+2015,Central region,    Agriculture And Horticulture Workers,20.38
+2013,Central region,    Primary Production Labourers,17.79
+2014,Central region,    Primary Production Labourers,16.46
+2015,Central region,    Primary Production Labourers,16.9
+2013,Central region,"    Supervisors, Processing Occupations",26.3
+2014,Central region,"    Supervisors, Processing Occupations",27.26
+2015,Central region,"    Supervisors, Processing Occupations",23.93
+2013,Central region,"    Supervisors, Assembly And Fabrication",25.29
+2014,Central region,"    Supervisors, Assembly And Fabrication",27.9
+2015,Central region,"    Supervisors, Assembly And Fabrication",29.14
+2014,Central region,    Central Control And Process Operators In Manufacturing And Processing,23.37
+2013,Central region,    Machine Operators And Related Workers In Metal And Mineral Products Processing,18.58
+2014,Central region,    Machine Operators And Related Workers In Metal And Mineral Products Processing,20.54
+2015,Central region,    Machine Operators And Related Workers In Metal And Mineral Products Processing,22.35
+2013,Central region,"    Machine Operators And Related Workers In Chemical, Plastic And Rubber Processing",18.33
+2014,Central region,"    Machine Operators And Related Workers In Chemical, Plastic And Rubber Processing",18.56
+2015,Central region,"    Machine Operators And Related Workers In Chemical, Plastic And Rubber Processing",19.57
+2013,Central region,    Machine Operators And Related Workers In Pulp And Paper Production And Wood Processing,17.09
+2014,Central region,    Machine Operators And Related Workers In Pulp And Paper Production And Wood Processing,20.23
+2015,Central region,    Machine Operators And Related Workers In Pulp And Paper Production And Wood Processing,18.76
+2014,Central region,    Machine Operators And Related Workers In Textile Processing,17.72
+2015,Central region,    Machine Operators And Related Workers In Textile Processing,13.55
+2013,Central region,"    Machine Operators And Related Workers In Fabric, Fur And Leather ",11.83
+2014,Central region,"    Machine Operators And Related Workers In Fabric, Fur And Leather ",12.14
+2015,Central region,"    Machine Operators And Related Workers In Fabric, Fur And Leather ",13.6
+2013,Central region,"    Machine Operators And Related Workers In Food, Beverage And Tobacco Processing",17.03
+2014,Central region,"    Machine Operators And Related Workers In Food, Beverage And Tobacco Processing",18.2
+2015,Central region,"    Machine Operators And Related Workers In Food, Beverage And Tobacco Processing",20.41
+2013,Central region,    Printing Machine Operators And Related Occupations,15.84
+2014,Central region,    Printing Machine Operators And Related Occupations,18.35
+2015,Central region,    Printing Machine Operators And Related Occupations,17.7
+2013,Central region,"    Machining, Metalworking, Woodworking And Related Machine Operators",18.28
+2014,Central region,"    Machining, Metalworking, Woodworking And Related Machine Operators",18.62
+2015,Central region,"    Machining, Metalworking, Woodworking And Related Machine Operators",18.48
+2013,Central region,"    Mechanical, Electrical And Electronics Assemblers",22.44
+2014,Central region,"    Mechanical, Electrical And Electronics Assemblers",21.78
+2015,Central region,"    Mechanical, Electrical And Electronics Assemblers",21.2
+2013,Central region,    Other Assembly And Related Occupations,17.09
+2014,Central region,    Other Assembly And Related Occupations,18.49
+2015,Central region,    Other Assembly And Related Occupations,16.94
+2013,Central region,"    Labourers In Processing, Manufacturing And Utilities",14.77
+2014,Central region,"    Labourers In Processing, Manufacturing And Utilities",14.73
+2015,Central region,"    Labourers In Processing, Manufacturing And Utilities",14.71
+2013,Western region,Management occupations,37.27
+2014,Western region,Management occupations,38.74
+2015,Western region,Management occupations,39.36
+2013,Western region,   Senior management occupations,50.63
+2014,Western region,   Senior management occupations,44.74
+2015,Western region,   Senior management occupations,45.72
+2013,Western region,   Other management occupations,36.74
+2014,Western region,   Other management occupations,38.41
+2015,Western region,   Other management occupations,39.02
+2013,Western region,"Business, finance and administrative occupations",21.9
+2014,Western region,"Business, finance and administrative occupations",22.63
+2015,Western region,"Business, finance and administrative occupations",22.85
+2013,Western region,   Professional occupations in business and finance,31.53
+2014,Western region,   Professional occupations in business and finance,34.56
+2015,Western region,   Professional occupations in business and finance,33.48
+2013,Western region,"   Financial, secretarial and administrative occupations",22.88
+2014,Western region,"   Financial, secretarial and administrative occupations",23.65
+2015,Western region,"   Financial, secretarial and administrative occupations",23.79
+2013,Western region,"   Clerical occupations, including supervisors",19.54
+2014,Western region,"   Clerical occupations, including supervisors",19.69
+2015,Western region,"   Clerical occupations, including supervisors",20.23
+2013,Western region,Natural and applied sciences and related occupations,31.72
+2014,Western region,Natural and applied sciences and related occupations,33.49
+2015,Western region,Natural and applied sciences and related occupations,32.92
+2013,Western region,Health occupations,28.47
+2014,Western region,Health occupations,28.02
+2015,Western region,Health occupations,29.02
+2013,Western region,"   Professional occupations in health, nurse supervisors and registered nurses",34.42
+2014,Western region,"   Professional occupations in health, nurse supervisors and registered nurses",35.09
+2015,Western region,"   Professional occupations in health, nurse supervisors and registered nurses",36.21
+2013,Western region,"   Technical, assisting and related occupations in health",23.8
+2014,Western region,"   Technical, assisting and related occupations in health",23.21
+2015,Western region,"   Technical, assisting and related occupations in health",24.2
+2013,Western region,"Occupations in social science, education, government service and religion",32.6
+2014,Western region,"Occupations in social science, education, government service and religion",32.32
+2015,Western region,"Occupations in social science, education, government service and religion",32.9
+2013,Western region,"   Occupations in social science, government service and religion",26.46
+2014,Western region,"   Occupations in social science, government service and religion",26.32
+2015,Western region,"   Occupations in social science, government service and religion",26.66
+2013,Western region,   Teachers and professors,37.35
+2014,Western region,   Teachers and professors,37.45
+2015,Western region,   Teachers and professors,37.94
+2013,Western region,"Occupations in art, culture, recreation and sport",20.6
+2014,Western region,"Occupations in art, culture, recreation and sport",21.45
+2015,Western region,"Occupations in art, culture, recreation and sport",23.03
+2013,Western region,Sales and service occupations,15.92
+2014,Western region,Sales and service occupations,16.47
+2015,Western region,Sales and service occupations,16.48
+2013,Western region,"   Wholesale, technical, insurance, real estate sales specialists, and retail, wholesale and grain buyers",26.11
+2014,Western region,"   Wholesale, technical, insurance, real estate sales specialists, and retail, wholesale and grain buyers",26.97
+2015,Western region,"   Wholesale, technical, insurance, real estate sales specialists, and retail, wholesale and grain buyers",27.07
+2013,Western region,"   Retail salespersons, sales clerks, cashiers, including retail trade supervisors",13.41
+2014,Western region,"   Retail salespersons, sales clerks, cashiers, including retail trade supervisors",14.06
+2015,Western region,"   Retail salespersons, sales clerks, cashiers, including retail trade supervisors",13.96
+2013,Western region,"   Chefs and cooks, and occupations in food and beverage service, including supervisors",13.05
+2014,Western region,"   Chefs and cooks, and occupations in food and beverage service, including supervisors",13.61
+2015,Western region,"   Chefs and cooks, and occupations in food and beverage service, including supervisors",13.69
+2013,Western region,   Occupation in protective services,27.04
+2014,Western region,   Occupation in protective services,27.72
+2015,Western region,   Occupation in protective services,28.76
+2013,Western region,   Childcare and home support workers,18.73
+2014,Western region,   Childcare and home support workers,18.56
+2015,Western region,   Childcare and home support workers,19.12
+2013,Western region,"   Sales and service occupations not elsewhere classified, including occupations in travel and accommodation, attendants in recreation and sport as well as supervisors",14.24
+2014,Western region,"   Sales and service occupations not elsewhere classified, including occupations in travel and accommodation, attendants in recreation and sport as well as supervisors",14.39
+2015,Western region,"   Sales and service occupations not elsewhere classified, including occupations in travel and accommodation, attendants in recreation and sport as well as supervisors",14.47
+2013,Western region,"Trades, transport and equipment operators and related occupations",22.96
+2014,Western region,"Trades, transport and equipment operators and related occupations",23.25
+2015,Western region,"Trades, transport and equipment operators and related occupations",23.59
+2013,Western region,   Contractors and supervisors in trades and transportation,28.78
+2014,Western region,   Contractors and supervisors in trades and transportation,28.42
+2015,Western region,   Contractors and supervisors in trades and transportation,30.02
+2013,Western region,   Construction trades,24.53
+2014,Western region,   Construction trades,24.45
+2015,Western region,   Construction trades,24.5
+2013,Western region,   Other trades occupations,24.67
+2014,Western region,   Other trades occupations,25.07
+2015,Western region,   Other trades occupations,25.61
+2013,Western region,   Transport and equipment operators,20.5
+2014,Western region,   Transport and equipment operators,20.84
+2015,Western region,   Transport and equipment operators,20.89
+2013,Western region,"   Trades helpers, construction, and transportation labourers and related occupations",18.77
+2014,Western region,"   Trades helpers, construction, and transportation labourers and related occupations",19.36
+2015,Western region,"   Trades helpers, construction, and transportation labourers and related occupations",19.46
+2013,Western region,Occupations unique to primary industry,15.68
+2014,Western region,Occupations unique to primary industry,15.88
+2015,Western region,Occupations unique to primary industry,17.58
+2013,Western region,"Occupations unique to processing, manufacturing and utilities",21.42
+2014,Western region,"Occupations unique to processing, manufacturing and utilities",21.37
+2015,Western region,"Occupations unique to processing, manufacturing and utilities",21.58
+2013,Western region,"   Machine operators and assemblers in manufacturing, including supervisors",22.36
+2014,Western region,"   Machine operators and assemblers in manufacturing, including supervisors",22.28
+2015,Western region,"   Machine operators and assemblers in manufacturing, including supervisors",22.45
+2013,Western region,"   Labourer in processing, manufacturing and utilities",17.09
+2014,Western region,"   Labourer in processing, manufacturing and utilities",17.59
+2015,Western region,"   Labourer in processing, manufacturing and utilities",17.26
+2013,Western region,    Legislators And Senior Management,50.63
+2014,Western region,    Legislators And Senior Management,44.74
+2015,Western region,    Legislators And Senior Management,45.72
+2013,Western region,    Administrative Services Managers,38.33
+2014,Western region,    Administrative Services Managers,39.06
+2015,Western region,    Administrative Services Managers,41.09
+2013,Western region,"    Managers In Engineering, Architecture, Science And Information Systems",46.96
+2014,Western region,"    Managers In Engineering, Architecture, Science And Information Systems",43.44
+2015,Western region,"    Managers In Engineering, Architecture, Science And Information Systems",47.54
+2013,Western region,"    Sales, Marketing And Advertising Managers",41.07
+2014,Western region,"    Sales, Marketing And Advertising Managers",42.41
+2015,Western region,"    Sales, Marketing And Advertising Managers",42.45
+2013,Western region,    Facility Operation And Maintenance Managers,29.93
+2014,Western region,    Facility Operation And Maintenance Managers,33.72
+2015,Western region,    Facility Operation And Maintenance Managers,41.26
+2013,Western region,    Managers In Retail Trade,25.43
+2014,Western region,    Managers In Retail Trade,28.81
+2015,Western region,    Managers In Retail Trade,29.08
+2013,Western region,    Managers In Food Service And Accommodation,22.79
+2014,Western region,    Managers In Food Service And Accommodation,22.93
+2015,Western region,    Managers In Food Service And Accommodation,21.72
+2013,Western region,    Managers In Financial And Business Services,39.2
+2014,Western region,    Managers In Financial And Business Services,41.06
+2015,Western region,    Managers In Financial And Business Services,41.54
+2013,Western region,"    Managers In Health, Education, Social And Community Services",40.63
+2014,Western region,"    Managers In Health, Education, Social And Community Services",41.58
+2015,Western region,"    Managers In Health, Education, Social And Community Services",42.39
+2013,Western region,    Managers In Public Administration,49.94
+2014,Western region,    Managers In Public Administration,43.93
+2013,Western region,    Managers In Construction And Transportation,34.75
+2014,Western region,    Managers In Construction And Transportation,39.38
+2015,Western region,    Managers In Construction And Transportation,40.22
+2013,Western region,    Managers In Manufacturing And Utilities,42.75
+2014,Western region,    Managers In Manufacturing And Utilities,44.13
+2015,Western region,    Managers In Manufacturing And Utilities,44.82
+2013,Western region,"    Auditors, Accountants And Investment Professionals",31.41
+2014,Western region,"    Auditors, Accountants And Investment Professionals",34.57
+2015,Western region,"    Auditors, Accountants And Investment Professionals",34.61
+2013,Western region,    Human Resources And Business Service Professionals,31.77
+2014,Western region,    Human Resources And Business Service Professionals,34.53
+2015,Western region,    Human Resources And Business Service Professionals,31.13
+2013,Western region,    Finance And Insurance Administrative Occupations,23.7
+2014,Western region,    Finance And Insurance Administrative Occupations,23.69
+2015,Western region,    Finance And Insurance Administrative Occupations,23.51
+2013,Western region,"    Secretaries, Recorders And Transcriptionists",19.79
+2014,Western region,"    Secretaries, Recorders And Transcriptionists",20.44
+2015,Western region,"    Secretaries, Recorders And Transcriptionists",21.65
+2013,Western region,    Administrative And Regulatory Occupations,23.53
+2014,Western region,    Administrative And Regulatory Occupations,24.6
+2015,Western region,    Administrative And Regulatory Occupations,24.63
+2013,Western region,    Clerical Supervisors,23.35
+2014,Western region,    Clerical Supervisors,24.04
+2015,Western region,    Clerical Supervisors,24.74
+2013,Western region,"    Clerical Occupations, General Office Skills",18.3
+2014,Western region,"    Clerical Occupations, General Office Skills",17.73
+2015,Western region,"    Clerical Occupations, General Office Skills",18.2
+2013,Western region,    Office Equipment Operators,18.98
+2014,Western region,    Office Equipment Operators,17.52
+2015,Western region,    Office Equipment Operators,16.94
+2013,Western region,    Finance And Insurance Clerks,20.01
+2014,Western region,    Finance And Insurance Clerks,19.69
+2015,Western region,    Finance And Insurance Clerks,19.81
+2013,Western region,    Administrative Support Clerks,20.64
+2014,Western region,    Administrative Support Clerks,20.89
+2015,Western region,    Administrative Support Clerks,22.01
+2013,Western region,"    Library, Correspondence And Related Information Clerks",16.52
+2014,Western region,"    Library, Correspondence And Related Information Clerks",16.74
+2015,Western region,"    Library, Correspondence And Related Information Clerks",17.13
+2013,Western region,    Mail And Message Distribution Occupations,20
+2014,Western region,    Mail And Message Distribution Occupations,20.28
+2015,Western region,    Mail And Message Distribution Occupations,20.76
+2013,Western region,"    Recording, Scheduling And Distributing Occupations",19.27
+2014,Western region,"    Recording, Scheduling And Distributing Occupations",20.26
+2015,Western region,"    Recording, Scheduling And Distributing Occupations",20.54
+2014,Western region,    Physical Science Professionals,34.63
+2015,Western region,    Physical Science Professionals,34.89
+2013,Western region,    Life Science Professionals,34.52
+2014,Western region,    Life Science Professionals,37.95
+2013,Western region,"    Civil, Mechanical, Electrical And Chemical Engineers",36.71
+2014,Western region,"    Civil, Mechanical, Electrical And Chemical Engineers",38.41
+2015,Western region,"    Civil, Mechanical, Electrical And Chemical Engineers",41.33
+2013,Western region,    Other Engineers,36.49
+2014,Western region,    Other Engineers,38.22
+2015,Western region,    Other Engineers,35.9
+2013,Western region,"    Architects, Urban Planners And Land Surveyors",33.69
+2014,Western region,"    Architects, Urban Planners And Land Surveyors",37.15
+2015,Western region,"    Architects, Urban Planners And Land Surveyors",36.89
+2013,Western region,"      Mathematicians, Statisticians and Actuaries",37.82
+2013,Western region,   Computer and Information Systems Professionals,34.67
+2014,Western region,   Computer and Information Systems Professionals,36.61
+2015,Western region,   Computer and Information Systems Professionals,35.01
+2013,Western region,    Technical Occupations In Physical Sciences,25.13
+2014,Western region,    Technical Occupations In Physical Sciences,30.59
+2015,Western region,    Technical Occupations In Physical Sciences,29.05
+2013,Western region,    Technical Occupations In Life Sciences,24.53
+2014,Western region,    Technical Occupations In Life Sciences,22.76
+2015,Western region,    Technical Occupations In Life Sciences,26.73
+2013,Western region,"    Technical Occupations In Civil, Mechanical And Industrial Engineering",27.49
+2014,Western region,"    Technical Occupations In Civil, Mechanical And Industrial Engineering",29.76
+2015,Western region,"    Technical Occupations In Civil, Mechanical And Industrial Engineering",30.68
+2013,Western region,    Technical Occupations In Electronics And Electrical Engineering,28.7
+2014,Western region,    Technical Occupations In Electronics And Electrical Engineering,27.11
+2015,Western region,    Technical Occupations In Electronics And Electrical Engineering,27.38
+2013,Western region,"    Technical Occupations In Architecture, Drafting, Surveying And Mapping",26.45
+2014,Western region,"    Technical Occupations In Architecture, Drafting, Surveying And Mapping",26.46
+2015,Western region,"    Technical Occupations In Architecture, Drafting, Surveying And Mapping",26.84
+2013,Western region,    Other Technical Inspectors And Regulatory Officers,32.3
+2014,Western region,    Other Technical Inspectors And Regulatory Officers,35.41
+2015,Western region,    Other Technical Inspectors And Regulatory Officers,32.41
+2014,Western region,    Transportation Officers And Controllers,36.66
+2015,Western region,    Transportation Officers And Controllers,40.78
+2013,Western region,   Technical Occupations in Computer and Information Systems,27.43
+2014,Western region,   Technical Occupations in Computer and Information Systems,27.1
+2015,Western region,   Technical Occupations in Computer and Information Systems,27.09
+2013,Western region,"    Physicians, Dentists And Veterinarians",34.12
+2014,Western region,"    Physicians, Dentists And Veterinarians",35.9
+2015,Western region,"    Physicians, Dentists And Veterinarians",38.94
+2013,Western region,"    Pharmacists, Dietitians And Nutritionists",41.3
+2014,Western region,"    Pharmacists, Dietitians And Nutritionists",40.03
+2015,Western region,"    Pharmacists, Dietitians And Nutritionists",44.51
+2013,Western region,    Therapy And Assessment Professionals,32.82
+2014,Western region,    Therapy And Assessment Professionals,30.32
+2015,Western region,    Therapy And Assessment Professionals,33.85
+2013,Western region,    Nurse Supervisors And Registered Nurses,34.21
+2014,Western region,    Nurse Supervisors And Registered Nurses,34.96
+2015,Western region,    Nurse Supervisors And Registered Nurses,35.58
+2013,Western region,    Medical Technologists And Technicians (Except Dental Health),29.7
+2014,Western region,    Medical Technologists And Technicians (Except Dental Health),28.61
+2015,Western region,    Medical Technologists And Technicians (Except Dental Health),29.76
+2013,Western region,    Technical Occupations In Dental Health Care,32.51
+2014,Western region,    Technical Occupations In Dental Health Care,33.45
+2015,Western region,    Technical Occupations In Dental Health Care,34.78
+2013,Western region,    Other Technical Occupations In Health Care (Except Dental),28.55
+2014,Western region,    Other Technical Occupations In Health Care (Except Dental),27.76
+2015,Western region,    Other Technical Occupations In Health Care (Except Dental),28.14
+2013,Western region,    Assisting Occupations In Support Of Health Services,19.7
+2014,Western region,    Assisting Occupations In Support Of Health Services,19.45
+2015,Western region,    Assisting Occupations In Support Of Health Services,20.53
+2013,Western region,"    Judges, Lawyers And Quebec Notaries",40.88
+2015,Western region,"    Judges, Lawyers And Quebec Notaries",43.03
+2013,Western region,"    Psychologists, Social Workers, Counsellors, Clergy And Probation Officers",29.39
+2014,Western region,"    Psychologists, Social Workers, Counsellors, Clergy And Probation Officers",30.24
+2015,Western region,"    Psychologists, Social Workers, Counsellors, Clergy And Probation Officers",29.86
+2013,Western region,"    Policy And Program Officers, Researchers And Consultants",32.57
+2014,Western region,"    Policy And Program Officers, Researchers And Consultants",34.04
+2015,Western region,"    Policy And Program Officers, Researchers And Consultants",32.29
+2013,Western region,    University Professors And Assistants,33.16
+2014,Western region,    University Professors And Assistants,34.64
+2015,Western region,    University Professors And Assistants,33.56
+2013,Western region,    College And Other Vocational Instructors,36.43
+2014,Western region,    College And Other Vocational Instructors,39.7
+2015,Western region,    College And Other Vocational Instructors,37.88
+2013,Western region,    Secondary And Elementary School Teachers And Counsellors,38.62
+2014,Western region,    Secondary And Elementary School Teachers And Counsellors,38.08
+2015,Western region,    Secondary And Elementary School Teachers And Counsellors,39.53
+2013,Western region,"    Paralegals, Social Services Workers And Occupations In Education And Religion, N.E.C.",22.37
+2014,Western region,"    Paralegals, Social Services Workers And Occupations In Education And Religion, N.E.C.",21.37
+2015,Western region,"    Paralegals, Social Services Workers And Occupations In Education And Religion, N.E.C.",22.27
+2015,Western region,"    Librarians, Archivists, Conservators And Curators",32.98
+2013,Western region,"    Writing, Translating And Public Relations Professionals",28.87
+2014,Western region,"    Writing, Translating And Public Relations Professionals",28.13
+2015,Western region,"    Writing, Translating And Public Relations Professionals",29.79
+2013,Western region,    Creative And Performing Artists,24.06
+2014,Western region,    Creative And Performing Artists,24.03
+2015,Western region,    Creative And Performing Artists,29.05
+2013,Western region,"    Technical Occupations In Libraries, Archives, Museums And Galleries",22.65
+2014,Western region,"    Technical Occupations In Libraries, Archives, Museums And Galleries",20.12
+2013,Western region,"    Photographers, Graphic Arts Technicians And Technical Occupations ",19.32
+2014,Western region,"    Photographers, Graphic Arts Technicians And Technical Occupations ",20.88
+2015,Western region,"    Photographers, Graphic Arts Technicians And Technical Occupations ",23.59
+2013,Western region,    Creative Designers And Craftspersons,22.31
+2014,Western region,    Creative Designers And Craftspersons,19.02
+2015,Western region,    Creative Designers And Craftspersons,22.12
+2013,Western region,"    Athletes, Coaches, Referees And Related Occupations",15.05
+2014,Western region,"    Athletes, Coaches, Referees And Related Occupations",16.05
+2015,Western region,"    Athletes, Coaches, Referees And Related Occupations",15.93
+2013,Western region,    Sales And Service Supervisors,16.29
+2014,Western region,    Sales And Service Supervisors,17.73
+2015,Western region,    Sales And Service Supervisors,17.66
+2013,Western region,"    Sales Representatives, Wholesale Trade",27.23
+2014,Western region,"    Sales Representatives, Wholesale Trade",27.04
+2015,Western region,"    Sales Representatives, Wholesale Trade",27.07
+2013,Western region,"    Technical Sales Specialists, Wholesale Trade",26.36
+2014,Western region,"    Technical Sales Specialists, Wholesale Trade",29.55
+2015,Western region,"    Technical Sales Specialists, Wholesale Trade",30.28
+2013,Western region,    Insurance And Real Estate Sales Occupations And Buyers,23.16
+2014,Western region,    Insurance And Real Estate Sales Occupations And Buyers,24.02
+2015,Western region,    Insurance And Real Estate Sales Occupations And Buyers,23.42
+2013,Western region,    Retail Salespersons And Sales Clerks,14.02
+2014,Western region,    Retail Salespersons And Sales Clerks,14.08
+2015,Western region,    Retail Salespersons And Sales Clerks,13.54
+2013,Western region,    Cashiers,11.33
+2014,Western region,    Cashiers,11.65
+2015,Western region,    Cashiers,12.1
+2013,Western region,    Chefs And Cooks,12.98
+2014,Western region,    Chefs And Cooks,14.03
+2015,Western region,    Chefs And Cooks,13.75
+2013,Western region,    Occupations In Food And Beverage Service,12.94
+2014,Western region,    Occupations In Food And Beverage Service,13.15
+2015,Western region,    Occupations In Food And Beverage Service,13.3
+2013,Western region,    Police Officers And Fire-Fighters,35.92
+2014,Western region,    Police Officers And Fire-Fighters,37.04
+2015,Western region,    Police Officers And Fire-Fighters,39.51
+2013,Western region,    Other Occupations In Protective Service,28.55
+2014,Western region,    Other Occupations In Protective Service,27.2
+2015,Western region,    Other Occupations In Protective Service,25.58
+2013,Western region,    Security Guards And Related Occupations,15.04
+2014,Western region,    Security Guards And Related Occupations,16.07
+2015,Western region,    Security Guards And Related Occupations,16.68
+2013,Western region,    Occupations In Travel And Accommodation,17.61
+2014,Western region,    Occupations In Travel And Accommodation,19.09
+2015,Western region,    Occupations In Travel And Accommodation,18.9
+2013,Western region,    Tour And Recreational Guides And Amusement Occupations,19.87
+2014,Western region,    Tour And Recreational Guides And Amusement Occupations,21.13
+2015,Western region,    Tour And Recreational Guides And Amusement Occupations,23.15
+2013,Western region,"    Other Attendants In Travel, Accommodation And Recreation",16.26
+2014,Western region,"    Other Attendants In Travel, Accommodation And Recreation",14.31
+2015,Western region,"    Other Attendants In Travel, Accommodation And Recreation",13.12
+2013,Western region,    Childcare And Home Support Workers,18.73
+2014,Western region,    Childcare And Home Support Workers,18.56
+2015,Western region,    Childcare And Home Support Workers,19.12
+2013,Western region,    Technical Occupations In Personal Service,15.34
+2014,Western region,    Technical Occupations In Personal Service,16.13
+2015,Western region,    Technical Occupations In Personal Service,14.33
+2013,Western region,    Other Occupations In Personal Service,13.68
+2014,Western region,    Other Occupations In Personal Service,13.2
+2015,Western region,    Other Occupations In Personal Service,15.25
+2013,Western region,    Cleaners,16.66
+2014,Western region,    Cleaners,16.75
+2015,Western region,    Cleaners,16.5
+2013,Western region,    Butchers And Bakers,12.91
+2014,Western region,    Butchers And Bakers,12.44
+2015,Western region,    Butchers And Bakers,13.6
+2013,Western region,    Food Counter Attendants And Kitchen Helpers,11.65
+2014,Western region,    Food Counter Attendants And Kitchen Helpers,12.13
+2015,Western region,    Food Counter Attendants And Kitchen Helpers,12.4
+2013,Western region,    Other Sales And Related Occupations,12.2
+2014,Western region,    Other Sales And Related Occupations,12.49
+2015,Western region,    Other Sales And Related Occupations,13.16
+2013,Western region,    Other Elemental Service Occupations,13.76
+2014,Western region,    Other Elemental Service Occupations,13.29
+2015,Western region,    Other Elemental Service Occupations,14.01
+2013,Western region,"    Contractors And Supervisors, Trades And Related Workers",29.02
+2014,Western region,"    Contractors And Supervisors, Trades And Related Workers",28.68
+2015,Western region,"    Contractors And Supervisors, Trades And Related Workers",30.47
+2013,Western region,"    Plumbers, Pipefitters And Gas Fitters",31
+2014,Western region,"    Plumbers, Pipefitters And Gas Fitters",27.24
+2015,Western region,"    Plumbers, Pipefitters And Gas Fitters",27.91
+2013,Western region,    Carpenters And Cabinetmakers,21.2
+2014,Western region,    Carpenters And Cabinetmakers,22.77
+2015,Western region,    Carpenters And Cabinetmakers,22.82
+2013,Western region,    Masonry And Plastering Trades,26.72
+2014,Western region,    Masonry And Plastering Trades,26.02
+2015,Western region,    Masonry And Plastering Trades,24.63
+2013,Western region,    Other Construction Trades,21.25
+2014,Western region,    Other Construction Trades,21.54
+2015,Western region,    Other Construction Trades,24.01
+2013,Western region,    Electrical Trades And Telecommunications Occupations,27.85
+2014,Western region,    Electrical Trades And Telecommunications Occupations,28.39
+2015,Western region,    Electrical Trades And Telecommunications Occupations,29.21
+2013,Western region,    Stationary Engineers And Power Station And System Operators,37.31
+2014,Western region,    Stationary Engineers And Power Station And System Operators,38.39
+2015,Western region,    Stationary Engineers And Power Station And System Operators,32.11
+2013,Western region,    Machinists And Related Occupations,23.43
+2014,Western region,    Machinists And Related Occupations,23.53
+2015,Western region,    Machinists And Related Occupations,24.72
+2013,Western region,"    Metal Forming, Shaping And Erecting Occupations",23.37
+2014,Western region,"    Metal Forming, Shaping And Erecting Occupations",23.01
+2015,Western region,"    Metal Forming, Shaping And Erecting Occupations",25.03
+2013,Western region,    Machinery And Transportation Equipment Mechanics (Except MotorVehicle),27.22
+2014,Western region,    Machinery And Transportation Equipment Mechanics (Except MotorVehicle),27.71
+2015,Western region,    Machinery And Transportation Equipment Mechanics (Except MotorVehicle),28.12
+2013,Western region,    Motor Vehicle Mechanics,21.73
+2014,Western region,    Motor Vehicle Mechanics,22.58
+2015,Western region,    Motor Vehicle Mechanics,22.61
+2013,Western region,    Other Mechanics,21.13
+2014,Western region,    Other Mechanics,23.8
+2015,Western region,    Other Mechanics,24.62
+2014,Western region,"    Upholsterers, Tailors, Shoe Repairers, Jewellers And Related Occupations",16.48
+2013,Western region,"    Printing Press Operators, Commercial Divers And Other Trades, And Related Occupations, ",20.87
+2014,Western region,"    Printing Press Operators, Commercial Divers And Other Trades, And Related Occupations, ",20.59
+2015,Western region,"    Printing Press Operators, Commercial Divers And Other Trades, And Related Occupations, ",22.14
+2013,Western region,"    Other Installers, Repairers And Servicers",19.15
+2014,Western region,"    Other Installers, Repairers And Servicers",19.11
+2015,Western region,"    Other Installers, Repairers And Servicers",19.88
+2013,Western region,    Heavy Equipment Operators,24.9
+2014,Western region,    Heavy Equipment Operators,24.09
+2015,Western region,    Heavy Equipment Operators,23.86
+2013,Western region,"    Crane Operators, Drillers And Blasters",25.86
+2014,Western region,"    Crane Operators, Drillers And Blasters",26.48
+2015,Western region,"    Crane Operators, Drillers And Blasters",25.88
+2013,Western region,    Motor Vehicle And Transit Drivers,19.34
+2014,Western region,    Motor Vehicle And Transit Drivers,19.6
+2015,Western region,    Motor Vehicle And Transit Drivers,19.48
+2013,Western region,    Longshore Workers And Material Handlers,17.99
+2014,Western region,    Longshore Workers And Material Handlers,18.58
+2015,Western region,    Longshore Workers And Material Handlers,19
+2013,Western region,    Trades Helpers And Labourers,19.51
+2014,Western region,    Trades Helpers And Labourers,20.12
+2015,Western region,    Trades Helpers And Labourers,20.02
+2013,Western region,"    Public Works And Other Labourers, N.E.C.",21.06
+2014,Western region,"    Public Works And Other Labourers, N.E.C.",20.44
+2015,Western region,"    Public Works And Other Labourers, N.E.C.",19.29
+2013,Western region,"    Contractors, Operators And Supervisors In Agriculture, Horticulture And Aquaculture",17.84
+2014,Western region,"    Contractors, Operators And Supervisors In Agriculture, Horticulture And Aquaculture",18.55
+2015,Western region,"    Contractors, Operators And Supervisors In Agriculture, Horticulture And Aquaculture",21.49
+2013,Western region,    Agriculture And Horticulture Workers,13.82
+2014,Western region,    Agriculture And Horticulture Workers,15.11
+2015,Western region,    Agriculture And Horticulture Workers,15.52
+2013,Western region,    Primary Production Labourers,15.49
+2014,Western region,    Primary Production Labourers,15.19
+2015,Western region,    Primary Production Labourers,16.86
+2013,Western region,"    Supervisors, Processing Occupations",27.36
+2014,Western region,"    Supervisors, Processing Occupations",27.15
+2015,Western region,"    Supervisors, Processing Occupations",28.7
+2013,Western region,"    Supervisors, Assembly And Fabrication",28.58
+2014,Western region,"    Supervisors, Assembly And Fabrication",28.36
+2015,Western region,"    Supervisors, Assembly And Fabrication",28.77
+2013,Western region,    Central Control And Process Operators In Manufacturing And Processing,28.9
+2014,Western region,    Central Control And Process Operators In Manufacturing And Processing,33.57
+2015,Western region,    Central Control And Process Operators In Manufacturing And Processing,32.45
+2013,Western region,    Machine Operators And Related Workers In Metal And Mineral Products Processing,23.35
+2014,Western region,    Machine Operators And Related Workers In Metal And Mineral Products Processing,24.31
+2015,Western region,    Machine Operators And Related Workers In Metal And Mineral Products Processing,24.59
+2013,Western region,"    Machine Operators And Related Workers In Chemical, Plastic And Rubber Processing",20.32
+2014,Western region,"    Machine Operators And Related Workers In Chemical, Plastic And Rubber Processing",22.55
+2015,Western region,"    Machine Operators And Related Workers In Chemical, Plastic And Rubber Processing",21.72
+2013,Western region,    Machine Operators And Related Workers In Pulp And Paper Production And Wood Processing,21.64
+2014,Western region,    Machine Operators And Related Workers In Pulp And Paper Production And Wood Processing,18.31
+2015,Western region,    Machine Operators And Related Workers In Pulp And Paper Production And Wood Processing,17.66
+2014,Western region,    Machine Operators And Related Workers In Textile Processing,15.63
+2013,Western region,"    Machine Operators And Related Workers In Fabric, Fur And Leather ",13.67
+2015,Western region,"    Machine Operators And Related Workers In Fabric, Fur And Leather ",16.22
+2013,Western region,"    Machine Operators And Related Workers In Food, Beverage And Tobacco Processing",17.99
+2014,Western region,"    Machine Operators And Related Workers In Food, Beverage And Tobacco Processing",18.32
+2015,Western region,"    Machine Operators And Related Workers In Food, Beverage And Tobacco Processing",19.06
+2015,Western region,    Printing Machine Operators And Related Occupations,17.25
+2013,Western region,"    Machining, Metalworking, Woodworking And Related Machine Operators",19.4
+2014,Western region,"    Machining, Metalworking, Woodworking And Related Machine Operators",19.66
+2015,Western region,"    Machining, Metalworking, Woodworking And Related Machine Operators",19.74
+2013,Western region,"    Mechanical, Electrical And Electronics Assemblers",25.19
+2014,Western region,"    Mechanical, Electrical And Electronics Assemblers",25.05
+2015,Western region,"    Mechanical, Electrical And Electronics Assemblers",25.88
+2013,Western region,    Other Assembly And Related Occupations,18.65
+2014,Western region,    Other Assembly And Related Occupations,18.14
+2015,Western region,    Other Assembly And Related Occupations,18.51
+2013,Western region,"    Labourers In Processing, Manufacturing And Utilities",17.09
+2014,Western region,"    Labourers In Processing, Manufacturing And Utilities",17.59
+2015,Western region,"    Labourers In Processing, Manufacturing And Utilities",17.26
+2013,Northern region,Management occupations,36.46
+2014,Northern region,Management occupations,39.95
+2015,Northern region,Management occupations,37.31
+2013,Northern region,   Other management occupations,35.67
+2014,Northern region,   Other management occupations,38.9
+2015,Northern region,   Other management occupations,36.84
+2013,Northern region,"Business, finance and administrative occupations",22.11
+2014,Northern region,"Business, finance and administrative occupations",23.13
+2015,Northern region,"Business, finance and administrative occupations",22.64
+2013,Northern region,   Professional occupations in business and finance,34.74
+2014,Northern region,   Professional occupations in business and finance,35.09
+2015,Northern region,   Professional occupations in business and finance,34.18
+2013,Northern region,"   Financial, secretarial and administrative occupations",22.11
+2014,Northern region,"   Financial, secretarial and administrative occupations",24.05
+2015,Northern region,"   Financial, secretarial and administrative occupations",23.69
+2013,Northern region,"   Clerical occupations, including supervisors",20.42
+2014,Northern region,"   Clerical occupations, including supervisors",20.59
+2015,Northern region,"   Clerical occupations, including supervisors",20.36
+2013,Northern region,Natural and applied sciences and related occupations,31.09
+2014,Northern region,Natural and applied sciences and related occupations,31.8
+2015,Northern region,Natural and applied sciences and related occupations,33.34
+2013,Northern region,Health occupations,29.48
+2014,Northern region,Health occupations,29.5
+2015,Northern region,Health occupations,29.82
+2013,Northern region,"   Professional occupations in health, nurse supervisors and registered nurses",36.51
+2014,Northern region,"   Professional occupations in health, nurse supervisors and registered nurses",35.64
+2015,Northern region,"   Professional occupations in health, nurse supervisors and registered nurses",36.39
+2013,Northern region,"   Technical, assisting and related occupations in health",24.49
+2014,Northern region,"   Technical, assisting and related occupations in health",24.29
+2015,Northern region,"   Technical, assisting and related occupations in health",24.96
+2013,Northern region,"Occupations in social science, education, government service and religion",31.71
+2014,Northern region,"Occupations in social science, education, government service and religion",31.29
+2015,Northern region,"Occupations in social science, education, government service and religion",32.24
+2013,Northern region,"   Occupations in social science, government service and religion",25.47
+2014,Northern region,"   Occupations in social science, government service and religion",26.2
+2015,Northern region,"   Occupations in social science, government service and religion",28.04
+2013,Northern region,   Teachers and professors,38.89
+2014,Northern region,   Teachers and professors,37.67
+2015,Northern region,   Teachers and professors,37.65
+2013,Northern region,"Occupations in art, culture, recreation and sport",22.65
+2014,Northern region,"Occupations in art, culture, recreation and sport",22.61
+2015,Northern region,"Occupations in art, culture, recreation and sport",21.38
+2013,Northern region,Sales and service occupations,15.58
+2014,Northern region,Sales and service occupations,16.1
+2015,Northern region,Sales and service occupations,16.67
+2013,Northern region,"   Wholesale, technical, insurance, real estate sales specialists, and retail, wholesale and grain buyers",24.27
+2014,Northern region,"   Wholesale, technical, insurance, real estate sales specialists, and retail, wholesale and grain buyers",24.76
+2015,Northern region,"   Wholesale, technical, insurance, real estate sales specialists, and retail, wholesale and grain buyers",25.84
+2013,Northern region,"   Retail salespersons, sales clerks, cashiers, including retail trade supervisors",13.21
+2014,Northern region,"   Retail salespersons, sales clerks, cashiers, including retail trade supervisors",13.5
+2015,Northern region,"   Retail salespersons, sales clerks, cashiers, including retail trade supervisors",14.38
+2013,Northern region,"   Chefs and cooks, and occupations in food and beverage service, including supervisors",12.79
+2014,Northern region,"   Chefs and cooks, and occupations in food and beverage service, including supervisors",13.1
+2015,Northern region,"   Chefs and cooks, and occupations in food and beverage service, including supervisors",13.42
+2013,Northern region,   Occupation in protective services,30
+2014,Northern region,   Occupation in protective services,28.84
+2015,Northern region,   Occupation in protective services,28.56
+2013,Northern region,   Childcare and home support workers,18.7
+2014,Northern region,   Childcare and home support workers,19.57
+2015,Northern region,   Childcare and home support workers,17.88
+2013,Northern region,"   Sales and service occupations not elsewhere classified, including occupations in travel and accommodation, attendants in recreation and sport as well as supervisors",13.92
+2014,Northern region,"   Sales and service occupations not elsewhere classified, including occupations in travel and accommodation, attendants in recreation and sport as well as supervisors",14.88
+2015,Northern region,"   Sales and service occupations not elsewhere classified, including occupations in travel and accommodation, attendants in recreation and sport as well as supervisors",14.95
+2013,Northern region,"Trades, transport and equipment operators and related occupations",23.99
+2014,Northern region,"Trades, transport and equipment operators and related occupations",24.88
+2015,Northern region,"Trades, transport and equipment operators and related occupations",25.64
+2013,Northern region,   Contractors and supervisors in trades and transportation,31.65
+2014,Northern region,   Contractors and supervisors in trades and transportation,30.09
+2015,Northern region,   Contractors and supervisors in trades and transportation,30.52
+2013,Northern region,   Construction trades,22.95
+2014,Northern region,   Construction trades,25.07
+2015,Northern region,   Construction trades,24.77
+2013,Northern region,   Other trades occupations,26.18
+2014,Northern region,   Other trades occupations,27.39
+2015,Northern region,   Other trades occupations,28.2
+2013,Northern region,   Transport and equipment operators,21.63
+2014,Northern region,   Transport and equipment operators,21
+2015,Northern region,   Transport and equipment operators,22.99
+2013,Northern region,"   Trades helpers, construction, and transportation labourers and related occupations",17.94
+2014,Northern region,"   Trades helpers, construction, and transportation labourers and related occupations",19.28
+2015,Northern region,"   Trades helpers, construction, and transportation labourers and related occupations",19.36
+2013,Northern region,Occupations unique to primary industry,27.01
+2014,Northern region,Occupations unique to primary industry,26.06
+2015,Northern region,Occupations unique to primary industry,26.61
+2013,Northern region,"Occupations unique to processing, manufacturing and utilities",25.17
+2014,Northern region,"Occupations unique to processing, manufacturing and utilities",26.1
+2015,Northern region,"Occupations unique to processing, manufacturing and utilities",24.05
+2013,Northern region,"   Machine operators and assemblers in manufacturing, including supervisors",26.01
+2014,Northern region,"   Machine operators and assemblers in manufacturing, including supervisors",27.32
+2015,Northern region,"   Machine operators and assemblers in manufacturing, including supervisors",25.05
+2013,Northern region,"   Labourer in processing, manufacturing and utilities",22.11
+2014,Northern region,"   Labourer in processing, manufacturing and utilities",22.4
+2015,Northern region,"   Labourer in processing, manufacturing and utilities",21.81
+2013,Northern region,    Managers In Retail Trade,29.17
+2014,Northern region,    Managers In Retail Trade,32.94
+2015,Northern region,    Managers In Retail Trade,28.03
+2013,Northern region,"    Managers In Health, Education, Social And Community Services",38.69
+2014,Northern region,"    Managers In Health, Education, Social And Community Services",47.33
+2015,Northern region,"    Managers In Health, Education, Social And Community Services",43.84
+2013,Northern region,"    Auditors, Accountants And Investment Professionals",34.93
+2014,Northern region,"    Auditors, Accountants And Investment Professionals",33.95
+2015,Northern region,"    Auditors, Accountants And Investment Professionals",33.24
+2014,Northern region,    Human Resources And Business Service Professionals,37.27
+2015,Northern region,    Human Resources And Business Service Professionals,35.72
+2013,Northern region,    Finance And Insurance Administrative Occupations,21.81
+2014,Northern region,    Finance And Insurance Administrative Occupations,26.78
+2015,Northern region,    Finance And Insurance Administrative Occupations,22.06
+2013,Northern region,"    Secretaries, Recorders And Transcriptionists",19.79
+2014,Northern region,"    Secretaries, Recorders And Transcriptionists",20.87
+2015,Northern region,"    Secretaries, Recorders And Transcriptionists",21.66
+2013,Northern region,    Administrative And Regulatory Occupations,23.35
+2014,Northern region,    Administrative And Regulatory Occupations,24.69
+2015,Northern region,    Administrative And Regulatory Occupations,25.62
+2013,Northern region,    Clerical Supervisors,24.25
+2014,Northern region,    Clerical Supervisors,24.46
+2015,Northern region,    Clerical Supervisors,26.41
+2013,Northern region,"    Clerical Occupations, General Office Skills",18.06
+2014,Northern region,"    Clerical Occupations, General Office Skills",19.55
+2015,Northern region,"    Clerical Occupations, General Office Skills",19.32
+2013,Northern region,    Finance And Insurance Clerks,21.88
+2014,Northern region,    Finance And Insurance Clerks,21.42
+2015,Northern region,    Finance And Insurance Clerks,20.59
+2013,Northern region,    Administrative Support Clerks,21.66
+2014,Northern region,    Administrative Support Clerks,22.79
+2015,Northern region,    Administrative Support Clerks,20.87
+2013,Northern region,"    Library, Correspondence And Related Information Clerks",16.06
+2014,Northern region,"    Library, Correspondence And Related Information Clerks",15.67
+2015,Northern region,"    Library, Correspondence And Related Information Clerks",16.68
+2013,Northern region,    Mail And Message Distribution Occupations,20.07
+2014,Northern region,    Mail And Message Distribution Occupations,21.64
+2015,Northern region,    Mail And Message Distribution Occupations,20.22
+2013,Northern region,"    Recording, Scheduling And Distributing Occupations",19.25
+2014,Northern region,"    Recording, Scheduling And Distributing Occupations",19.48
+2015,Northern region,"    Recording, Scheduling And Distributing Occupations",20.53
+2013,Northern region,   Computer and Information Systems Professionals,29.26
+2014,Northern region,   Computer and Information Systems Professionals,32
+2015,Northern region,   Computer and Information Systems Professionals,35.26
+2015,Northern region,    Technical Occupations In Physical Sciences,30.17
+2014,Northern region,"    Technical Occupations In Civil, Mechanical And Industrial Engineering",27.08
+2013,Northern region,    Technical Occupations In Electronics And Electrical Engineering,30.13
+2014,Northern region,    Technical Occupations In Electronics And Electrical Engineering,33.01
+2015,Northern region,    Technical Occupations In Electronics And Electrical Engineering,27.13
+2013,Northern region,    Other Technical Inspectors And Regulatory Officers,33.31
+2014,Northern region,    Other Technical Inspectors And Regulatory Officers,35.47
+2013,Northern region,   Technical Occupations in Computer and Information Systems,25.23
+2014,Northern region,   Technical Occupations in Computer and Information Systems,26.05
+2015,Northern region,   Technical Occupations in Computer and Information Systems,31.38
+2014,Northern region,    Therapy And Assessment Professionals,34.75
+2013,Northern region,    Nurse Supervisors And Registered Nurses,35.82
+2014,Northern region,    Nurse Supervisors And Registered Nurses,34.51
+2015,Northern region,    Nurse Supervisors And Registered Nurses,35.59
+2013,Northern region,    Medical Technologists And Technicians (Except Dental Health),31.92
+2014,Northern region,    Medical Technologists And Technicians (Except Dental Health),28.54
+2015,Northern region,    Medical Technologists And Technicians (Except Dental Health),29.83
+2013,Northern region,    Other Technical Occupations In Health Care (Except Dental),28.19
+2014,Northern region,    Other Technical Occupations In Health Care (Except Dental),28.77
+2015,Northern region,    Other Technical Occupations In Health Care (Except Dental),28.01
+2013,Northern region,    Assisting Occupations In Support Of Health Services,20.03
+2014,Northern region,    Assisting Occupations In Support Of Health Services,20.09
+2015,Northern region,    Assisting Occupations In Support Of Health Services,21.04
+2013,Northern region,"    Psychologists, Social Workers, Counsellors, Clergy And Probation Officers",28.48
+2014,Northern region,"    Psychologists, Social Workers, Counsellors, Clergy And Probation Officers",28.69
+2015,Northern region,"    Psychologists, Social Workers, Counsellors, Clergy And Probation Officers",30.65
+2013,Northern region,"    Policy And Program Officers, Researchers And Consultants",31.8
+2014,Northern region,"    Policy And Program Officers, Researchers And Consultants",33.56
+2015,Northern region,"    Policy And Program Officers, Researchers And Consultants",38.43
+2013,Northern region,    University Professors And Assistants,34.66
+2014,Northern region,    University Professors And Assistants,34.03
+2015,Northern region,    University Professors And Assistants,31.7
+2013,Northern region,    College And Other Vocational Instructors,34.51
+2014,Northern region,    College And Other Vocational Instructors,40.23
+2015,Northern region,    College And Other Vocational Instructors,39.62
+2013,Northern region,    Secondary And Elementary School Teachers And Counsellors,40.47
+2014,Northern region,    Secondary And Elementary School Teachers And Counsellors,37.72
+2015,Northern region,    Secondary And Elementary School Teachers And Counsellors,38.62
+2013,Northern region,"    Paralegals, Social Services Workers And Occupations In Education And Religion, N.E.C.",21.3
+2014,Northern region,"    Paralegals, Social Services Workers And Occupations In Education And Religion, N.E.C.",22.36
+2015,Northern region,"    Paralegals, Social Services Workers And Occupations In Education And Religion, N.E.C.",22.16
+2014,Northern region,"    Writing, Translating And Public Relations Professionals",24.43
+2013,Northern region,    Sales And Service Supervisors,17.04
+2014,Northern region,    Sales And Service Supervisors,17.44
+2015,Northern region,    Sales And Service Supervisors,17.54
+2013,Northern region,"    Sales Representatives, Wholesale Trade",23.75
+2014,Northern region,"    Sales Representatives, Wholesale Trade",24.79
+2015,Northern region,"    Sales Representatives, Wholesale Trade",27.8
+2013,Northern region,    Insurance And Real Estate Sales Occupations And Buyers,20.47
+2015,Northern region,    Insurance And Real Estate Sales Occupations And Buyers,21.51
+2013,Northern region,    Retail Salespersons And Sales Clerks,13.64
+2014,Northern region,    Retail Salespersons And Sales Clerks,13.81
+2015,Northern region,    Retail Salespersons And Sales Clerks,14.94
+2013,Northern region,    Cashiers,11.1
+2014,Northern region,    Cashiers,11.03
+2015,Northern region,    Cashiers,11.77
+2013,Northern region,    Chefs And Cooks,13.74
+2014,Northern region,    Chefs And Cooks,13.25
+2015,Northern region,    Chefs And Cooks,13.66
+2013,Northern region,    Occupations In Food And Beverage Service,11.98
+2014,Northern region,    Occupations In Food And Beverage Service,12.71
+2015,Northern region,    Occupations In Food And Beverage Service,13.42
+2013,Northern region,    Police Officers And Fire-Fighters,37.12
+2014,Northern region,    Police Officers And Fire-Fighters,37.58
+2015,Northern region,    Police Officers And Fire-Fighters,35.27
+2013,Northern region,    Other Occupations In Protective Service,28.81
+2013,Northern region,    Security Guards And Related Occupations,15.45
+2014,Northern region,    Security Guards And Related Occupations,15.65
+2015,Northern region,    Security Guards And Related Occupations,17.98
+2013,Northern region,    Childcare And Home Support Workers,18.7
+2014,Northern region,    Childcare And Home Support Workers,19.57
+2015,Northern region,    Childcare And Home Support Workers,17.88
+2013,Northern region,    Cleaners,15.69
+2014,Northern region,    Cleaners,17.03
+2015,Northern region,    Cleaners,16.75
+2013,Northern region,    Butchers And Bakers,14.13
+2014,Northern region,    Butchers And Bakers,14
+2015,Northern region,    Butchers And Bakers,13.32
+2013,Northern region,    Food Counter Attendants And Kitchen Helpers,12.25
+2014,Northern region,    Food Counter Attendants And Kitchen Helpers,12.39
+2015,Northern region,    Food Counter Attendants And Kitchen Helpers,12.8
+2013,Northern region,    Other Sales And Related Occupations,12.05
+2014,Northern region,    Other Sales And Related Occupations,12.25
+2015,Northern region,    Other Sales And Related Occupations,13.22
+2013,Northern region,"    Contractors And Supervisors, Trades And Related Workers",31.67
+2014,Northern region,"    Contractors And Supervisors, Trades And Related Workers",30.82
+2015,Northern region,"    Contractors And Supervisors, Trades And Related Workers",30.73
+2013,Northern region,    Carpenters And Cabinetmakers,23.96
+2014,Northern region,    Carpenters And Cabinetmakers,23.28
+2015,Northern region,    Carpenters And Cabinetmakers,27.23
+2013,Northern region,    Electrical Trades And Telecommunications Occupations,27.94
+2014,Northern region,    Electrical Trades And Telecommunications Occupations,30.55
+2015,Northern region,    Electrical Trades And Telecommunications Occupations,29.81
+2014,Northern region,    Stationary Engineers And Power Station And System Operators,35.22
+2013,Northern region,"    Metal Forming, Shaping And Erecting Occupations",25.15
+2014,Northern region,"    Metal Forming, Shaping And Erecting Occupations",24.3
+2015,Northern region,"    Metal Forming, Shaping And Erecting Occupations",26.77
+2013,Northern region,    Machinery And Transportation Equipment Mechanics (Except MotorVehicle),27.98
+2014,Northern region,    Machinery And Transportation Equipment Mechanics (Except MotorVehicle),30.32
+2015,Northern region,    Machinery And Transportation Equipment Mechanics (Except MotorVehicle),31.29
+2013,Northern region,    Motor Vehicle Mechanics,24.64
+2014,Northern region,    Motor Vehicle Mechanics,23.49
+2015,Northern region,    Motor Vehicle Mechanics,24.9
+2014,Northern region,"    Other Installers, Repairers And Servicers",19.81
+2015,Northern region,"    Other Installers, Repairers And Servicers",21.96
+2013,Northern region,    Heavy Equipment Operators,23.02
+2014,Northern region,    Heavy Equipment Operators,23.05
+2015,Northern region,    Heavy Equipment Operators,23.86
+2013,Northern region,    Motor Vehicle And Transit Drivers,19.18
+2014,Northern region,    Motor Vehicle And Transit Drivers,19.62
+2015,Northern region,    Motor Vehicle And Transit Drivers,21.05
+2013,Northern region,    Longshore Workers And Material Handlers,16.55
+2014,Northern region,    Longshore Workers And Material Handlers,19.38
+2015,Northern region,    Longshore Workers And Material Handlers,16.66
+2013,Northern region,    Trades Helpers And Labourers,18.76
+2014,Northern region,    Trades Helpers And Labourers,19.97
+2015,Northern region,    Trades Helpers And Labourers,20.91
+2014,Northern region,"    Supervisors, Mining, Oil And Gas",35
+2015,Northern region,"    Supervisors, Mining, Oil And Gas",33.96
+2013,Northern region,"    Underground Miners, Oil And Gas Drillers And Related Workers",30.55
+2014,Northern region,"    Underground Miners, Oil And Gas Drillers And Related Workers",29.11
+2015,Northern region,"    Underground Miners, Oil And Gas Drillers And Related Workers",28.44
+2013,Northern region,    Primary Production Labourers,17.02
+2014,Northern region,    Primary Production Labourers,18.83
+2015,Northern region,    Primary Production Labourers,18.3
+2013,Northern region,"    Supervisors, Processing Occupations",31.51
+2013,Northern region,"    Labourers In Processing, Manufacturing And Utilities",22.11
+2014,Northern region,"    Labourers In Processing, Manufacturing And Utilities",22.4
+2015,Northern region,"    Labourers In Processing, Manufacturing And Utilities",21.81

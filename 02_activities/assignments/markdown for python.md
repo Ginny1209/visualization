@@ -2,7 +2,7 @@
 
 ## Assignment 4: Final Project
 
-### Python- BOX PLOT:
+### Python-BOX PLOT:
 
 - Link for data source, 
 	Wage rates by occupation https://data.ontario.ca/dataset/wage-rates-by-occupation
@@ -16,7 +16,9 @@
     
     > What information or message are you trying to convey with your visualization? 
 
-	The box plot compares the wage distributions across different occupations in different regions from 2013 to 2015, highlighting differences in central tendencies, variability, and the presence of outliers. It seems that the management roles are one of the widest ranges, indicating significant variability in wages within this category. The wages range from around $35 to $45. Sales and service occupations have one of the smallest ranges, with wages clustered closely together, indicating less variability. The wages range from around $10 to $15,which is among the minimum wage. 
+	The box plot compares the wage distributions across different occupations in different regions from 2013 to 2015, highlighting differences in central tendencies, variability, and the presence of outliers.
+ 	It seems that the management roles are one of the widest ranges, indicating significant variability in wages within this category. The wages range from around $35 to $45. 
+  	Sales and service occupations have one of the smallest ranges, with wages clustered closely together, indicating less variability. The wages range from around $10 to $15,which is among the minimum wage. 
     
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
      	Cleaned the original dataset and kept the most core valued data. 
@@ -38,7 +40,6 @@
 
     
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
 	Job seekers or students who are choosing their future careers will realize what type of occupations have better financial prospects than others.
 	They will be aware of the significant wage differences between top-skilled workers and lower or average workers within the same occupation.
 	For employers and HR, they would have a better bench mark for their compensation benchmark.
@@ -51,8 +52,8 @@
 
 
     > What ‘underwater labour’ contributed to your final data visualization product?
-
-	 Data cleaning was made before the data cleaning in the code which kept all the occupation categories instead of the detailed occupations. I removed all the “annual pay”semi-monthly pay” etc but to keep them standardized as hourly pay.Also removed the null data.
+	 Data cleaning was made before the data cleaning in the code which kept all the occupation categories instead of the detailed occupations. 
+  	I removed all the “annual pay”semi-monthly pay” etc but to keep them standardized as hourly pay.Also removed the null data.
 
 
  

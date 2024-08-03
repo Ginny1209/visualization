@@ -13,31 +13,31 @@
 	Python, specifically the Matplotlib and Seaborn libraries
 
     > Who is your intended audience?
-    
+    > 
 	The intended audience are individuals who are interested in wage distribution across different occupations in different Ontario regions.
     
-    > What information or message are you trying to convey with your visualization? 
-
+    > What information or message are you trying to convey with your visualization?
+    > 
 	The box plot compares the wage distributions across different occupations in different regions from 2013 to 2015, highlighting differences in central tendencies, variability, and the presence of outliers.
  	It seems that the management roles are one of the widest ranges, indicating significant variability in wages within this category. The wages range from around $35 to $45. 
   	Sales and service occupations have one of the smallest ranges, with wages clustered closely together, indicating less variability. The wages range from around $10 to $15,which is among the minimum wage. 
     
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
-    
+    > 
      	Cleaned the original dataset and kept the most core valued data. 
 	For X-axis,use the hourly rate .For Y axis, divide the occupations into major classes.
 	Choose a colorblind-friendly palette to ensure accessibility. 
 
 	
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
-    
+    > 
     	Record all the process of data cleaning and visualization code in python file
 	Using publicly accessible libraries like Matplotlib and Seaborn.
 	Comment to the code to record my steps
 
 
     > How did you ensure that your data visualization is accessible?
-    
+    > 
 	Used a color palette accessible to colorblind individuals.
 	Added Alt-text, clearly label all the elements
 	defined font sizes and styles that are easy to read.
@@ -45,21 +45,21 @@
 
     
     > Who are the individuals and communities who might be impacted by your visualization?
-    
+    > 
 	Job seekers or students who are choosing their future careers will realize what type of occupations have better financial prospects than others.
 	They will be aware of the significant wage differences between top-skilled workers and lower or average workers within the same occupation.
 	For employers and HR, they would have a better bench mark for their compensation benchmark.
 	For policy makers, they can get some insights on the income gap across different occupations.
 
     > How did you choose which features of your chosen dataset to include or exclude from your visualization?
-    
+    > 
     	After I cleaned all the averages, or totals that are not considered as unique data.All features are Year, Geography, Occupation, and Wage Rate, but for this one I excluded the year and Geography.  
 	Because it focuses on the overall wage distribution across different occupations without considering year-to-year variations.
 	Since the plot is focusing on the overall wage distribution across various occupations without comparing different regions within Ontario,
 
 
     > What ‘underwater labour’ contributed to your final data visualization product?
-    
+    > 
 	 Data cleaning was made before the data cleaning in the code which kept all the occupation categories instead of the detailed occupations. 
   	I removed all the “annual pay”semi-monthly pay” etc but to keep them standardized as hourly pay.Also removed the null data.
 

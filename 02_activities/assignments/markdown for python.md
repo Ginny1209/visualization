@@ -23,8 +23,8 @@
   	Sales and service occupations have one of the smallest ranges, with wages clustered closely together, indicating less variability. The wages range from around $10 to $15,which is among the minimum wage. 
     
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
-    > 
-     	Cleaned the original dataset and kept the most core valued data. 
+    >
+    	Cleaned the original dataset and kept the most core valued data. 
 	For X-axis,use the hourly rate .For Y axis, divide the occupations into major classes.
 	Choose a colorblind-friendly palette to ensure accessibility. 
 

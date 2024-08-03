@@ -24,9 +24,7 @@
     
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
     >
-    	Cleaned the original dataset and kept the most core valued data. 
-	For X-axis,use the hourly rate .For Y axis, divide the occupations into major classes.
-	Choose a colorblind-friendly palette to ensure accessibility. 
+  Cleaned the original dataset and kept the most core valued data. For X-axis,use the hourly rate .For Y axis, divide the occupations into major classes.Choose a colorblind-friendly palette to ensure accessibility. 
 
 	
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?

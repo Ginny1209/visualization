@@ -10,52 +10,59 @@
 I used the built-in function of Microsoft Excel to create the data visualization. 
 
 > Who is your intended audience?
+> 
 
-    	Individuals who are interested in the trend of hourly pay in different occupations over three years from 2013 to 2015, 
-	for example employees whose occupation is listed, job seekers, HR,employer, students who is choosing their future careers
+Individuals who are interested in the trend of hourly pay in different occupations over three years from 2013 to 2015, 
+for example employees whose occupation is listed, job seekers, HR,employer, students who is choosing their future careers
 
 > What information or message are you trying to convey with your visualization?
+> 
 
-    	The message conveyed by the visualization is to show the trend of average hourly rates of different occupations from different regions of Ontario from 2013 to  2015. 
-    	It can tell which occupation's hourly rate has increased or decreased.
+The message conveyed by the visualization is to show the trend of average hourly rates of different occupations from different regions of Ontario from 2013 to  2015. 
+It can tell which occupation's hourly rate has increased or decreased.
 
 > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+> 
 
-    	Added the axis labels, grids,legends and enlarge the fonts
-	Used colorblind-friendly colors to ensure the chart is accessible
-	Make the beginning axis value from 0 dollar to 15 dollars so we can clearly see the trend as the change is not that obvious over the three years.
-	Added Alt-text as the text box, tried to use the built-in function but it seems you have to use accessible model to get in to see it
-	Used the average rate of all the regions of Ontario by converting the original data to pivot table.
-	Keep it simple and focused with less elements.
+Added the axis labels, grids,legends and enlarge the fonts
+Used colorblind-friendly colors to ensure the chart is accessible
+Make the beginning axis value from 0 dollar to 15 dollars so we can clearly see the trend as the change is not that obvious over the three years.
+Added Alt-text as the text box, tried to use the built-in function but it seems you have to use accessible model to get in to see it
+Used the average rate of all the regions of Ontario by converting the original data to pivot table.
+Keep it simple and focused with less elements.
 
 > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+> 
 
-    	Share the original data and the chart in the excel file with comments about how I clean the date and the pivot table as the source of the chart. 
-	So all the color codes, font size, font can be found in the document.
+Share the original data and the chart in the excel file with comments about how I clean the date and the pivot table as the source of the chart. 
+So all the color codes, font size, font can be found in the document.
 
-    > How did you ensure that your data visualization is accessible?  
-    	Used Paul Tol's Color Schemes:(Blue: #0072B2Orange: #D55E0Green: #009E73) to accommodate individuals with color vision deficiencies.
-	Added alt text in the alt-text function as well as a text box as the alt-text can only be read on accessible mode. 
-	Avoided overlapping labels and ensured enough spacing between bars and text.
-
-
-    > Who are the individuals and communities who might be impacted by your visualization?  
-    	Individuals who were working in certain occupation lists in the data from 2013 to 2015 could have a reference of their own wage to the market.
-	Employers and HR who are evaluating their labor cost/budget  to new hires or current employees.
-	Economists and policy makers who are studying labor cost market
-	Students who are seeking to join a occupation/industry with better financial prospect
+> How did you ensure that your data visualization is accessible?
+> 
+Used Paul Tol's Color Schemes:(Blue: #0072B2Orange: #D55E0Green: #009E73) to accommodate individuals with color vision deficiencies.
+Added alt text in the alt-text function as well as a text box as the alt-text can only be read on accessible mode. 
+Avoided overlapping labels and ensured enough spacing between bars and text.
 
 
-    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    	After I cleaned all the averages, or totals that are not considered as unique data. All features left are Year, Geography, Occupation, and Wage Rate.
-	To avoid complexity and focus on overall trends,I exclude the geography breakdown, and use the average wage rate of all the province as the final average wage.
+> Who are the individuals and communities who might be impacted by your visualization?
+> 
+Individuals who were working in certain occupation lists in the data from 2013 to 2015 could have a reference of their own wage to the market.
+Employers and HR who are evaluating their labor cost/budget  to new hires or current employees.
+Economists and policy makers who are studying labor cost market
+Students who are seeking to join a occupation/industry with better financial prospect
 
 
-    > What ‘underwater labour’ contributed to your final data visualization product?
-		Cleaning data by removing the excessive informan and make a pivot table as the source of data visualization
-	  	Adjusting the font size,adding axis label, add chart title,legends
-	  	Add alt-text, changing the colorblind-friendly color palette
-	  	Change the y axis starting from 15 dollars to make the chart more concise and focused
+> How did you choose which features of your chosen dataset to include or exclude from your visualization?
+> 
+After I cleaned all the averages, or totals that are not considered as unique data. All features left are Year, Geography, Occupation, and Wage Rate.
+To avoid complexity and focus on overall trends,I exclude the geography breakdown, and use the average wage rate of all the province as the final average wage.
+
+
+> What ‘underwater labour’ contributed to your final data visualization product?
+Cleaning data by removing the excessive informan and make a pivot table as the source of data visualization
+Adjusting the font size,adding axis label, add chart title,legends
+Add alt-text, changing the colorblind-friendly color palette
+Change the y axis starting from 15 dollars to make the chart more concise and focused
 
 	
  

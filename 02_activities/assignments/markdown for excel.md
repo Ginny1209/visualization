@@ -6,8 +6,8 @@
  
 
 > What software did you use to create your data visualization?
-
-	I used the built-in function of Microsoft Excel to create the data visualization. 
+> 
+I used the built-in function of Microsoft Excel to create the data visualization. 
 
 > Who is your intended audience?
 

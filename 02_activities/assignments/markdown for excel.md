@@ -47,10 +47,10 @@
 
 
     > What ‘underwater labour’ contributed to your final data visualization product?
-	  Cleaning data by removing the excessive informan and make a pivot table as the source of data visualization
-	  Adjusting the font size,adding axis label, add chart title,legends
-	  Add alt-text, changing the colorblind-friendly color palette
-	  Change the y axis starting from 15 dollars to make the chart more concise and focused
+		Cleaning data by removing the excessive informan and make a pivot table as the source of data visualization
+	  	Adjusting the font size,adding axis label, add chart title,legends
+	  	Add alt-text, changing the colorblind-friendly color palette
+	  	Change the y axis starting from 15 dollars to make the chart more concise and focused
 
 	
  

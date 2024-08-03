@@ -28,10 +28,8 @@
 
 	
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
-    > 
-    	Record all the process of data cleaning and visualization code in python file
-	Using publicly accessible libraries like Matplotlib and Seaborn.
-	Comment to the code to record my steps
+    >
+    Record all the process of data cleaning and visualization code in python fileUsing publicly accessible libraries like Matplotlib and Seaborn. Comment to the code to record my steps
 
 
     > How did you ensure that your data visualization is accessible?

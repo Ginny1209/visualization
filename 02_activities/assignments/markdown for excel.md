@@ -6,17 +6,21 @@
  
 
 > What software did you use to create your data visualization?
+
 	I used the built-in function of Microsoft Excel to create the data visualization. 
 
-> Who is your intended audience? 
+> Who is your intended audience?
+
     	Individuals who are interested in the trend of hourly pay in different occupations over three years from 2013 to 2015, 
 	for example employees whose occupation is listed, job seekers, HR,employer, students who is choosing their future careers
 
-    > What information or message are you trying to convey with your visualization? 
+> What information or message are you trying to convey with your visualization?
+
     	The message conveyed by the visualization is to show the trend of average hourly rates of different occupations from different regions of Ontario from 2013 to  2015. 
     	It can tell which occupation's hourly rate has increased or decreased.
 
-    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+> What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+
     	Added the axis labels, grids,legends and enlarge the fonts
 	Used colorblind-friendly colors to ensure the chart is accessible
 	Make the beginning axis value from 0 dollar to 15 dollars so we can clearly see the trend as the change is not that obvious over the three years.
@@ -24,7 +28,8 @@
 	Used the average rate of all the regions of Ontario by converting the original data to pivot table.
 	Keep it simple and focused with less elements.
 
-    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+> How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+
     	Share the original data and the chart in the excel file with comments about how I clean the date and the pivot table as the source of the chart. 
 	So all the color codes, font size, font can be found in the document.
 

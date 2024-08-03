@@ -49,7 +49,7 @@
 
     > How did you choose which features of your chosen dataset to include or exclude from your visualization?
     >
-    	After I cleaned all the averages, or totals that are not considered as unique data.All features are Year, Geography, Occupation, and Wage Rate, but for this one I excluded the year and Geography.  Because it focuses on the overall wage distribution across different occupations without considering year-to-year variations.Since the plot is focusing on the overall wage distribution across various occupations without comparing different regions within Ontario,
+    	After I cleaned all the averages, or totals that are not considered as unique data.All features are Year, Geography, Occupation, and Wage Rate, but for this one I excluded the year and Geography.  Because it focuses on the overall wage distribution across different occupations without considering year-to-year variations.Since the plot is focusing on the overall wage distribution across various occupations without comparing different regions within Ontario
 
 
     > What ‘underwater labour’ contributed to your final data visualization product?
